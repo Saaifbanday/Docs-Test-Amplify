@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="429ce525">
+        <description>Created after removal of "Dataset" from Help Instance</description>
+        <accepts>Dataset1.html</accepts>
+    </rule>
+    <rule id="11a00148">
+        <description>Created after removal of "Split" from Help Instance</description>
+        <accepts>Split-md.html</accepts>
+    </rule>
+    <rule id="6626b380">
+        <description>Created after removal of "anova" from Help Instance</description>
+        <accepts>anova.html</accepts>
+    </rule>
+    <rule id="5ed6589">
+        <description>Created after removal of "Regression Analysis" from Help Instance</description>
+        <accepts>Regression-Analysis.html</accepts>
+    </rule>
+</rules>

@@ -1,0 +1,11 @@
+# HeatMap
+
+For representing any dataset in terms of HeatMap
+
+__Load the dataset that needs to be visualized -> Go to Graphics -> HeatMap -> Put in the values for variables -> Execute the dialog.__
+
+![alt text](screenshots/image176.png){ width="700" }{ border-effect="rounded" }
+
+The advanced tab at the bottom leads to some advanced features of the as shown in the picture below.
+
+![alt text](screenshots/image177.png){ width="700" }{ border-effect="rounded" }
