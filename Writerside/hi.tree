@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Help Instance"
+                 start-page="INTRODUCTION.md">
+
+    <toc-element topic="INTRODUCTION.md"/>
+    <toc-element topic="INSTALLATION.md"/>
+    <toc-element topic="How-to-use-BioStat-Prime.md"/>
+    <toc-element topic="File.md"/>
+    <toc-element topic="Dataset.md">
+        <toc-element topic="Aggregate.md"/>
+        <toc-element topic="Compare-Dataset﻿.md"/>
+        <toc-element topic="Expand.md"/>
+        <toc-element topic="Find-Duplicates.md"/>
+        <toc-element topic="Group-By.md"/>
+        <toc-element topic="Merge.md"/>
+        <toc-element topic="ReShape.md"/>
+        <toc-element topic="Sampling.md"/>
+        <toc-element topic="Sort.md"/>
+        <toc-element topic="Subset.md"/>
+        <toc-element topic="Transpose.md"/>
+    </toc-element>
+    <toc-element topic="Vriable.md">
+        <toc-element topic="Bin.md"/>
+        <toc-element topic="Box-Cox.md"/>
+        <toc-element topic="Compute.md"/>
+        <toc-element topic="Concatenate.md"/>
+        <toc-element topic="Convert.md"/>
+        <toc-element topic="Date-order-check.md"/>
+        <toc-element topic="Delete-Variable.md"/>
+        <toc-element topic="Factor-levels.md"/>
+        <toc-element topic="ID-Variable.md"/>
+        <toc-element topic="Lag-or-Lead-Variable.md"/>
+        <toc-element topic="Missing-Values.md"/>
+        <toc-element topic="Rank-Variable-s.md"/>
+        <toc-element topic="Recode-Variables.md"/>
+        <toc-element topic="Standardize-Variable-s.md"/>
+        <toc-element topic="Transform-Variable-s.md"/>
+    </toc-element>
+    <toc-element topic="Analysis.md">
+        <toc-element topic="Cluster.md"/>
+        <toc-element topic="Correlations.md"/>
+        <toc-element topic="Crosstab.md"/>
+        <toc-element topic="Distribution-Analysis.md"/>
+        <toc-element topic="Factor-analysis.md"/>
+        <toc-element topic="Means.md">
+            <toc-element topic="ANCOVA.md"/>
+            <toc-element topic="ANOVA-1-and-2-way.md"/>
+            <toc-element topic="ANOVA-one-way-with-random-blocks.md"/>
+            <toc-element topic="ANOVA-one-way-with-blocks.md"/>
+            <toc-element topic="ANOVA-N-way.md"/>
+            <toc-element topic="ANOVA-Repeated-Measures-Long.md"/>
+            <toc-element topic="ANOVA-Repeated-Measures-Wide.md"/>
+            <toc-element topic="MANOVA.md"/>
+            <toc-element topic="t-test-Independent.md"/>
+            <toc-element topic="t-test-One-Sample.md"/>
+            <toc-element topic="t-test-Paired-Samples.md"/>
+            <toc-element topic="Missing-Value.md"/>
+            <toc-element topic="Moments.md"/>
+        </toc-element>
+        <toc-element topic="Non-Parametric.md"/>
+        <toc-element topic="Proportions.md"/>
+        <toc-element topic="Survival.md"/>
+        <toc-element topic="Tables.md"/>
+        <toc-element topic="Variance.md"/>
+    </toc-element>
+    <toc-element topic="Distribution.md">
+        <toc-element topic="Chi-square-test.md"/>
+        <toc-element topic="Lognormal.md"/>
+        <toc-element topic="Normal.md"/>
+        <toc-element topic="Poisson.md"/>
+    </toc-element>
+    <toc-element topic="Graphics.md">
+        <toc-element topic="Bar-Chart.md"/>
+        <toc-element topic="Box-Plot.md"/>
+        <toc-element topic="Contour-Plot.md"/>
+        <toc-element topic="AB-2D-Contour-Plot.md"/>
+        <toc-element topic="Distribution-Plot.md"/>
+        <toc-element topic="HeatMap.md"/>
+        <toc-element topic="Line-Charts.md"/>
+        <toc-element topic="Maps.md"/>
+        <toc-element topic="Pie-Charts.md"/>
+        <toc-element topic="Scatter-plots.md"/>
+        <toc-element topic="Stem-And-Leaf.md"/>
+        <toc-element topic="Strip-Chart.md"/>
+        <toc-element topic="Violin.md"/>
+    </toc-element>
+    <toc-element topic="Six-Sigma.md">
+        <toc-element topic="Six-Sigma-Overview.md"/>
+        <toc-element topic="Cause-and-Effect.md"/>
+        <toc-element topic="Pareto-Chart.md"/>
+        <toc-element topic="Loss-Function-Analysis.md"/>
+        <toc-element topic="MSA-Measurement-System-Analysis.md"/>
+        <toc-element topic="Gage-R-R-Measurement-System-Analysis.md"/>
+        <toc-element topic="Attribute-Agreement-Analysis.md"/>
+        <toc-element topic="Gage-Bias-Analysis.md"/>
+        <toc-element topic="Process-Capability.md"/>
+        <toc-element topic="Shewhart-Charts.md"/>
+        <toc-element topic="Cusum-Chart.md"/>
+        <toc-element topic="EWMA-Chart.md"/>
+        <toc-element topic="MQCC-Chart.md"/>
+        <toc-element topic="Multi-Vari-Chart.md"/>
+    </toc-element>
+    <toc-element topic="Model-Fitting.md">
+        <toc-element topic="Regression.md"/>
+        <toc-element topic="Non-Linear-Regression.md"/>
+        <toc-element topic="Naive-Bayes.md"/>
+        <toc-element topic="SEM.md"/>
+        <toc-element topic="Save-Model-to-a-file.md"/>
+        <toc-element topic="Load-Model-from-a-file.md"/>
+    </toc-element>
+    <toc-element topic="Model-Evaluation.md">
+        <toc-element topic="Compare-N-Models.md"/>
+        <toc-element topic="Confidence-Interval.md"/>
+        <toc-element topic="FIT.md"/>
+        <toc-element topic="Outlier-Test.md"/>
+        <toc-element topic="Model-scoring.md"/>
+    </toc-element>
+    <toc-element topic="Forecasting.md">
+        <toc-element topic="Automated-ARIMA-AR.md"/>
+        <toc-element topic="Exponential-Smoothing-ES.md"/>
+        <toc-element topic="Holt-Winters-Non-seasonal.md"/>
+        <toc-element topic="Holt-Winters-Seasonal.md"/>
+        <toc-element topic="Plot-Time-Series-Separate-OR-Combined.md"/>
+        <toc-element topic="Plot-Time-Series-with-Correlations.md"/>
+    </toc-element>
+    <toc-element topic="Design-of-Experiment.md">
+        <toc-element topic="Create-DoE-Factor-Details.md"/>
+        <toc-element topic="Import-Design-Response.md"/>
+        <toc-element topic="Export-Design-Response.md"/>
+        <toc-element topic="Create-Design.md"/>
+        <toc-element topic="Inspect-Design.md"/>
+        <toc-element topic="Modify-Design.md"/>
+        <toc-element topic="Analyse-Design.md"/>
+        <toc-element topic="Features-of-BioStat-Prime-that-enhance-DOE.md"/>
+    </toc-element>
+    <toc-element topic="Triple-dots.md"/>
+    <toc-element topic="Advanced-Users.md"/>
+    <toc-element topic="Marketplace.md"/>
+</instance-profile>
