@@ -5,8 +5,7 @@ Creates a new dataset with rows expanded as per weights. In this dialog the weig
 To expand weights user needs to follow the steps given bellow.
 
 Steps
-:
-__Load the dataset -> Click on the DATASET tab in main menu -> select EXPAND -> Once the dialog appears choose the Variable to be expanded -> Execute the dialog.__
+: __Load the dataset -> Click on the DATASET tab in main menu -> select EXPAND -> Once the dialog appears choose the Variable to be expanded -> Execute the dialog.__
 
 ![alt text](screenshots/image25.png){ width="700" }{ border-effect="rounded" }
 
