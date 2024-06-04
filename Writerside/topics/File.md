@@ -8,7 +8,7 @@ The file function is the First function in the main menu. It leads the user to f
 
 Used to load external dataset from user’s PC/Laptop supporting various formats including;
 
-{type="full"}
+
 Formats Supported
 : `CVS`, `DAT`, `Excel`, `RData`, `SAS`, `SPSS`, `STSTA`, `PSV`, `TSV`, `CSVY`, `ZSAV`, `XPT`, `RDA`, `RDS`, `DBF`, `ARFF`, `FEATHER`, `FST`, `JSON`, `MAT`, `ODS`, `HTML`, `XML`, `YML`, `PARQUET`, `PZFX`, `CSV.GZ`, `TEXT`, `BioStat`.
 
@@ -16,9 +16,16 @@ Formats Supported
 
 ## Load Dataset
 
-Loads the datasets that are internal to BioStat Prime, along with it is the feature of installing the associated R packages. In order to load a dataset, user needs to do the following.
-__Select the dataset and R package from the dropdown in the load dataset dialog  ->  execute the dialog.__
-If the user does not see a dataset in the dropdown, the package selected does not contain the dataset. Thus, to install the R Package required by the user, user needs to go to __Tools -> Package -> Install R Package from CRAN.__
+Loads the datasets that are internal to BioStat Prime, along with it is the feature of installing the associated R packages. 
+
+In order to load a dataset, user needs to do the following.
+
+__Steps__
+: __Select the dataset and R package from the dropdown in the load dataset dialog  ->  execute the dialog.__
+
+If the user does not see a dataset in the dropdown, the package selected does not contain the dataset. 
+
+>Thus, to install the R Package required by the user, user needs to go to __Tools -> Package -> Install R Package from CRAN.__
 
 ![alt text](screenshots/image15.png){ width="700" }{ border-effect="rounded" }
 
@@ -26,7 +33,6 @@ If the user does not see a dataset in the dropdown, the package selected does no
 
 Saves the dataset the user had worked on into the following formats.
 
-{type="full"}
 Formats Supported
 : `R Object`, `Comma separated`, `Excel 2007-2010`, `SAS, SPSS`, `STATA`, `PSV`, `TSV`, `CSVY`, `ZSAV`, `XPT`, `RDA`, `RDS`, `DBF`, `ARFF`, `FEATHER`, `FST`, `JSON`, `MAT`, `ODS`, `HTML`, `XML`, `YML`, `PARQUET`, `PZFX`. 
 
@@ -36,7 +42,6 @@ The user can decide as per the requirement which format to choose. Save seeks to
 
 Save As aims to create a new folder or save an existing file to a new location with the same name or a different title. Formats used for save/save As the dataset are as follows;
 
-{type="full"}
 Formats Supported
 : `R Object`, `Comma separated`, `Excel 2007-2010`, `SAS`, `SPSS`, `STATA`, `PSV`, `TSV`, `CSVY`, `ZSAV`, `XPT`, `RDA`, `RDS`, `DBF`, `ARFF`, `FEATHER`, `FST`, `JSON`, `MAT`, `ODS`, `HTML`, `XML`, `YML`, `PARQUET`, `PZFX`.
 
