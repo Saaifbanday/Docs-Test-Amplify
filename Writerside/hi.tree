@@ -48,7 +48,8 @@
         <toc-element topic="Means.md">
             <toc-element topic="ANCOVA.md"/>
             <toc-element topic="ANOVA-1-and-2-way.md"/>
-            <toc-element topic="ANOVA-one-way-with-random-blocks.md"/>
+            <toc-element topic="ANOVA-one-way-with-random-blocks.md">
+            </toc-element>
             <toc-element topic="ANOVA-one-way-with-blocks.md"/>
             <toc-element topic="ANOVA-N-way.md"/>
             <toc-element topic="ANOVA-Repeated-Measures-Long.md"/>
