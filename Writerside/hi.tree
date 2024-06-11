@@ -58,11 +58,12 @@
             <toc-element topic="t-test-Independent.md"/>
             <toc-element topic="t-test-One-Sample.md"/>
             <toc-element topic="t-test-Paired-Samples.md"/>
-            <toc-element topic="Missing-Value.md"/>
-            <toc-element topic="Moments.md"/>
         </toc-element>
+        <toc-element topic="Missing-Value.md"/>
+        <toc-element topic="Moments.md"/>
         <toc-element topic="Non-Parametric.md"/>
         <toc-element topic="Proportions.md"/>
+        <toc-element topic="Summary.md"/>
         <toc-element topic="Survival.md"/>
         <toc-element topic="Tables.md"/>
         <toc-element topic="Variance.md"/>
