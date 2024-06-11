@@ -22,4 +22,8 @@
         <description>Created after removal of "Regression Analysis" from Help Instance</description>
         <accepts>Regression-Analysis.html</accepts>
     </rule>
+    <rule id="1ded7560">
+        <description>Created after removal of "Summary.md" from Help Instance</description>
+        <accepts>Summary-md.html</accepts>
+    </rule>
 </rules>
