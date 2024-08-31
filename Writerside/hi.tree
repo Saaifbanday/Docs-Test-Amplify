@@ -7,6 +7,7 @@
 
     <toc-element topic="INTRODUCTION.md"/>
     <toc-element topic="INSTALLATION.md"/>
+    <toc-element topic="Licensing-Models.md"/>
     <toc-element topic="How-to-use-BioStat-Prime.md"/>
     <toc-element topic="File.md"/>
     <toc-element topic="Dataset.md">
@@ -106,7 +107,15 @@
         <toc-element topic="Multi-Vari-Chart.md"/>
     </toc-element>
     <toc-element topic="Model-Fitting.md">
-        <toc-element topic="Regression.md"/>
+        <toc-element topic="Regression.md">
+            <toc-element topic="Cox-Advanced.md"/>
+            <toc-element topic="Cox-Basics.md"/>
+            <toc-element topic="Cox-Binary-Time-depended-covariates.md"/>
+            <toc-element topic="Cox-Fine-Gray.md"/>
+            <toc-element topic="Cox-Regression-Multiple-models.md"/>
+            <toc-element topic="Cox-Stratified.md"/>
+            <toc-element topic="Linear-Regression-Advanced.md"/>
+        </toc-element>
         <toc-element topic="Non-Linear-Regression.md"/>
         <toc-element topic="Naive-Bayes.md"/>
         <toc-element topic="SEM.md"/>

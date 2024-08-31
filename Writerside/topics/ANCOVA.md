@@ -1,7 +1,5 @@
 # ANCOVA
 
-### ANCOVA
-
 ANCOVA stands for __Analysis of Covariance__. It is a statistical technique that combines the principles of __analysis of variance (ANOVA)__ with __regression__. 
 
 ANCOVA is used to compare group means while statistically controlling for the effects of other continuous variables that are not of primary interest, referred to as covariates. 

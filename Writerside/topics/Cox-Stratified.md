@@ -1,0 +1,38 @@
+# Cox, Stratified
+
+Fits a stratified Cox proportional hazards model for time-to-event data with censored observations. This is a Cox model that allows a separate baseline hazard function for each strata level. Model fitting statistics, parameter estimates, and hazard ratios are provided. Options available include the tied time method and model diagnostics. The model is fit using the coxph function in the survival package.
+
+![alt text](screenshots/image200.png){ width="700" }{ border-effect="rounded" }
+
+### Attributes
+
+Time to event or censor
+: Time to event for those experiencing the event or time to last follow-up for those not experiencing the event
+
+Events (1=event, 0=censor)
+: Numerical event indicator; 1=event, 0=censor
+
+Formula Builder
+: Construct terms to include in the model. Factors, strings, and logical variables will be dummy coded. The provided buttons allow you to specify main effects, full factorial effects (main effects and all interactions with the involved variables), polynomials, specific interactions, and delete terms from the list. Interactions with stratification variables is allowed.
+
+Stratification Variables
+: Specify one or more stratification variables. These can be numeric, factor, ordered factor, or character variables. The strata divide the subjects into separate groups whereby each group has a distinct baseline hazard function. If multiple stratification variables are given, a separate baseline hazard function is used for every combination of stratification variable levels.
+
+Weights
+: Numeric variable for observation weights. Useful in situations where each record should not be counted as one observation.
+
+>Required packages: survival, broom, survminer
+>
+{style="note"}
+
+>Click the R Help button to get detailed R help about the coxph function.
+>
+{style="note"}
+
+### Options
+
+Tied Time Method
+: Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times. The exact method can be beneficial if there are many tied times, as in discrete time situations, but can take a little longer for the model to be fit.
+
+Model Diagnostics
+: If selected, proportional hazards tests and plots will be provided, in addition to a Martingale residual plot.

@@ -3,7 +3,8 @@ Regression analysis is a statistical method used to examine the relationship bet
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the Model Fitting tab in main menu -> Select Linear regression or Non-linear regression based on the requirement -> This leads to analysis techniques in the dialog -> The various options in the dialog can be selected to opt for plot etc -> Finally execute the plot and visualise the output in output window.__
+Steps
+: __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Linear regression -> This leads to analysis techniques dropdown -> The various options in the dialog can be selected to opt for plot etc -> Finally execute the plot and visualise the output in output window.__
 
 ![alt text](screenshots/image193.png){ width="700" }{ border-effect="rounded" }
 
@@ -11,7 +12,9 @@ BioStat also provides advanced regression analysis functions that can create mod
 
 ![alt text](screenshots/image194.png){ width="700" }{ border-effect="rounded" }
 
-Note that the variables so selected are substituted as quotients in the formula built by the user.
+>Note that the variables so selected are substituted as quotients in the formula built by the user.
+>
+{style="note"}
 
 ### Cox, Advanced
 
