@@ -8,7 +8,8 @@ In survival analysis, when dealing with multiple events or outcomes that are con
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, Compare groups -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+Steps
+: __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, Compare groups -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![alt text](screenshots/image141.png){ width="700" }{ border-effect="rounded" }
 
@@ -22,7 +23,8 @@ When dealing with competing risks in a single group, one is interested in unders
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+Steps
+: __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![alt text](screenshots/image143.png){ width="700" }{ border-effect="rounded" }
 
@@ -36,7 +38,8 @@ Kaplan-Meier estimation is a non-parametric method used in survival analysis to 
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Kaplan-Meier Estimation, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+Steps
+: __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Kaplan-Meier Estimation, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![alt text](screenshots/image144.png){ width="700" }{ border-effect="rounded" }
 
