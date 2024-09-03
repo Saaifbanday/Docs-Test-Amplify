@@ -8,7 +8,8 @@ Bartlett's test is a statistical test used to assess whether the variances of tw
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Bartlett’s test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+Steps
+: __Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Bartlett’s test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![alt text](screenshots/image148.png){ width="700" }{ border-effect="rounded" }
 
@@ -18,7 +19,8 @@ Levene's test is a statistical test used to assess whether the variances of two 
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Levene’s test In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+Steps
+: __Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Levene’s test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![alt text](screenshots/image149.png){ width="700" }{ border-effect="rounded" }
 

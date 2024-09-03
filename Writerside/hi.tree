@@ -115,6 +115,16 @@
             <toc-element topic="Cox-Regression-Multiple-models.md"/>
             <toc-element topic="Cox-Stratified.md"/>
             <toc-element topic="Linear-Regression-Advanced.md"/>
+            <toc-element topic="Linear-Regression-Basics.md"/>
+            <toc-element topic="Linear-Regression-Legacy.md"/>
+            <toc-element topic="Linear-Regression-multiple-models.md"/>
+            <toc-element topic="Logistic-Regression-Advanced.md"/>
+            <toc-element topic="Logistic-Regression-Basic.md"/>
+            <toc-element topic="Logistic-Regression-Conditional.md"/>
+            <toc-element topic="Logistic-Regression-multiple-models.md"/>
+            <toc-element topic="Multinomial-Logit.md"/>
+            <toc-element topic="Ordinal-Regression.md"/>
+            <toc-element topic="Quantile-Regression.md"/>
         </toc-element>
         <toc-element topic="Non-Linear-Regression.md"/>
         <toc-element topic="Naive-Bayes.md"/>
