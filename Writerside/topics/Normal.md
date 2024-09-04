@@ -1,6 +1,8 @@
 # Normal
 
-In statistics, "normal" typically refers to the normal distribution, also known as the Gaussian distribution. It's a continuous probability distribution that is symmetric around its mean, forming a bell-shaped curve. Many natural phenomena, such as heights, weight, and IQ scores, tend to follow a normal distribution. The normal distribution is characterized by two parameters: the mean (μ) and the standard deviation (σ). The mean determines the center of the distribution, while the standard deviation determines the spread or dispersion of the data points around the mean.
+In statistics, __"normal"__ typically refers to the __normal distribution__, also known as the __Gaussian distribution__. It's a continuous probability distribution that is symmetric around its mean, forming a bell-shaped curve. 
+
+Many natural phenomena, such as heights, weight, and IQ scores, tend to follow a normal distribution. The normal distribution is characterized by two parameters: the mean (μ) and the standard deviation (σ). The mean determines the center of the distribution, while the standard deviation determines the spread or dispersion of the data points around the mean.
 
 ![alt text](screenshots/image157.png){ width="700" }{ border-effect="rounded" }
 
