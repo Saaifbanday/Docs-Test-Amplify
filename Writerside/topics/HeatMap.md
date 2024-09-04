@@ -2,7 +2,8 @@
 
 For representing any dataset in terms of HeatMap
 
-__Load the dataset that needs to be visualized -> Go to Graphics -> HeatMap -> Put in the values for variables -> Execute the dialog.__
+Steps
+: __Load the dataset that needs to be visualized -> Go to Graphics -> HeatMap -> Put in the values for variables -> Execute the dialog.__
 
 ![alt text](screenshots/image176.png){ width="700" }{ border-effect="rounded" }
 
