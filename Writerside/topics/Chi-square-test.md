@@ -17,6 +17,35 @@ Steps
 
 ![alt text](screenshots/image151.png){ width="700" }{ border-effect="rounded" }
 
+#### Usage
+>dchisq(x, df, ncp = 0, log = FALSE)
+> 
+{style=note}
+
+>pchisq(q, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+> 
+{style=note}
+
+>qchisq(p, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+>
+{style=note}
+
+>rchisq(n, df, ncp = 0)
+>
+{style=note}
+
+#### Value
+dchisq gives the density, pchisq gives the distribution function, qchisq gives the quantile function, and rchisq generates random deviates.
+Invalid arguments will result in return value NaN, with a warning.
+
+The length of the result is determined by n for rchisq, and is the maximum of the lengths of the numerical arguments for the other functions.
+The numerical arguments other than n are recycled to the length of the result. Only the first elements of the logical arguments are used.
+
+>Note
+Supplying ncp = 0 uses the algorithm for the non-central distribution, which is not the same algorithm used if ncp is omitted. This is to give consistent behaviour in extreme cases with values of ncp very near zero.
+
+>The code for non-zero ncp is principally intended to be used for moderate values of ncp: it will not be highly accurate, especially in the tails, for large values.
+
 ### Chi-square Probabilities
 
 To analyse it in BioStat user must follow the steps as given.
@@ -25,6 +54,35 @@ Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Chi square test -> This leads to analysis technique Chi-square Probabilities  in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
 ![alt text](screenshots/image152.png){ width="700" }{ border-effect="rounded" }
+
+#### Usage {id="usage_1"}
+>dchisq(x, df, ncp = 0, log = FALSE)
+>
+{style=note}
+
+>pchisq(q, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+>
+{style=note}
+
+>qchisq(p, df, ncp = 0, lower.tail = TRUE, log.p = FALSE)
+>
+{style=note}
+
+>rchisq(n, df, ncp = 0)
+>
+{style=note}
+
+#### Value {id="value_1"}
+dchisq gives the density, pchisq gives the distribution function, qchisq gives the quantile function, and rchisq generates random deviates.
+Invalid arguments will result in return value NaN, with a warning.
+
+The length of the result is determined by n for rchisq, and is the maximum of the lengths of the numerical arguments for the other functions.
+The numerical arguments other than n are recycled to the length of the result. Only the first elements of the logical arguments are used.
+
+>Note
+Supplying ncp = 0 uses the algorithm for the non-central distribution, which is not the same algorithm used if ncp is omitted. This is to give consistent behaviour in extreme cases with values of ncp very near zero.
+
+>The code for non-zero ncp is principally intended to be used for moderate values of ncp: it will not be highly accurate, especially in the tails, for large values.
 
 ### Chi-square Quantiles
 
