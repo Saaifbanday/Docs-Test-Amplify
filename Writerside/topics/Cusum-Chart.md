@@ -4,6 +4,7 @@ A Cumulative Sum (CUSUM) chart is a statistical control chart that is used in Si
 
 To analyse Cumulative Sum (CUSUM) chart in BioStat user must follow the steps given below.
 
-__Load the dataset -> Click on the Six Sigma tab in main menu -> Select Cumulative Sum (CUSUM) chart -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement ->Execute and visualise the output in output window.__
+Steps
+: __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Cumulative Sum (CUSUM) chart -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement ->Execute and visualise the output in output window.__
 
 ![alt text](screenshots/image295.png){ width="700" }{ border-effect="rounded" }
