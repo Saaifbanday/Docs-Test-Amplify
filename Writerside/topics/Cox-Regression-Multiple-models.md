@@ -2,9 +2,14 @@
 
 This creates a table containing results from Cox regression models for provided time and event variables. Separate Cox regression models will be fit for each independent variable, optionally adjusted for a set of additional variables. If a strata variable is specified, separate models will be fit for each of the stratification variable values. As an example, if no adjustor or stratification variables are specified, then the table will include all univariate models for the list of independent variables. Various statistics from each model can be output.
 
+To analyse it in BioStat Prime user must follow the steps as given.
+
+Steps
+: __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Cox Regression, Multiple models -> There will appear a dialog -> It is required to select the independent variables in the dialog, set time and set event -> Finally execute the plot and visualise the output in output window.__
+
 ![alt text](screenshots/image199.png){ width="700" }{ border-effect="rounded" }
 
-__Attributes__
+## Attributes
 
 Time
 : Time variable for each Cox regression model. The variable class must be a numeric type.
@@ -32,9 +37,9 @@ P-Values
 Hazard Ratios
 : The number of decimal places to show for all hazard ratios in the table (default=4)
 
-### Options
+## Options
 
-#### Parameter Estimates and Hazard Ratios
+### Parameter Estimates and Hazard Ratios
 Parameter Estimates
 : Show parameter estimates (coefficients) from each model.
 
@@ -59,7 +64,7 @@ Adjustment Variables
 Adjustment Names
 : Show a column delineating model types (unadjusted and different adjustment variable sets). Mostly useful when you don't want to show model output for the adjustor variables.
 
-#### Sample Size
+### Sample Size
 Sample Size
 : Show the sample size used from each model.
 
@@ -72,7 +77,7 @@ Number Missing, always
 Number of Events
 : Show the number of events from each model.
 
-#### Fit Statistics
+### Fit Statistics
 Concordance
 : Show the model concordance statistic.
 
@@ -94,7 +99,7 @@ Bayesian Information Criterion (BIC)
 Log-Likelihood
 : Show the model log-likelihood value
 
-#### P-Values
+### P-Values
 Parameter Estimates (Wald Test)
 : Show the p-values from the individual parameter Wald tests
 
@@ -110,7 +115,7 @@ Model Likelihood Ratio Test
 Model Wald Test
 : Show the p-value from the overall model Wald test.
 
-#### Test Statistics
+### Test Statistics
 Parameter z-statistics (Wald Test)
 : Show the z-statistics from the individual parameter Wald tests.
 

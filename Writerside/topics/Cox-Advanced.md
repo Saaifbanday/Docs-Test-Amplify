@@ -20,7 +20,7 @@ Steps
 
 ![alt text](screenshots/image195.png){ width="700" }{ border-effect="rounded" }
 
-__Arguments__
+## Arguments
 
 Time
 : Time to event for those experiencing the event or time to last follow-up for those not experiencing the event
@@ -43,18 +43,14 @@ Required packages
 
 ## Options
 
-### Tied Time Method:
+Tied Time Method
+: Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times. The exact method can be beneficial if there are many tied times, as in discrete time situations, but can take a little longer for the model to be fit.
 
-Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times. The exact method can be beneficial if there are many tied times, as in discrete time situations, but can take a little longer for the model to be fit.
+Forest Plot
+: Plot of hazard ratios and confidence intervals for each predictor in the model.
 
-### Forest Plot:
+Model Diagnostics
+: If selected, proportional hazards tests and plots will be provided, in addition to assessments of functional form for each covariate in the model. The null model Martingale residual axis minimum value option might need to be changed so that all residuals appear in the plot. To get functional form assessments, you must specify only numeric predictors and have no missing data. See Variables > Missing Values > Remove NAs.
 
-Plot of hazard ratios and confidence intervals for each predictor in the model.
-
-### Model Diagnostics:
-
-If selected, proportional hazards tests and plots will be provided, in addition to assessments of functional form for each covariate in the model. The null model Martingale residual axis minimum value option might need to be changed so that all residuals appear in the plot. To get functional form assessments, you must specify only numeric predictors and have no missing data. See Variables > Missing Values > Remove NAs.
-
-### Analysis of Deviance (Type II): 
-
-Global test of each predictor in the model. Multi-degree of freedom tests will be provided for effects with more than 2 levels. Wald and Likelihood ratio tests can be obtained, with likelihood ratios tests having better small sample properties.
+Analysis of Deviance (Type II)
+: Global test of each predictor in the model. Multi-degree of freedom tests will be provided for effects with more than 2 levels. Wald and Likelihood ratio tests can be obtained, with likelihood ratios tests having better small sample properties.

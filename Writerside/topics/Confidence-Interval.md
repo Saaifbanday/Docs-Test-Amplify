@@ -4,6 +4,7 @@ A confidence interval (CI) is a statistical concept used to estimate a range of 
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-__Load the dataset -> Click on the model evaluation tab in main menu -> Select confidence interval -> Select a model -> Execute.__
+Steps
+: __Load the dataset -> Click on the model evaluation tab in main menu -> Select confidence interval -> Select a model -> Execute.__
 
 ![alt text](screenshots/image223.png){ width="700" }{ border-effect="rounded" }
