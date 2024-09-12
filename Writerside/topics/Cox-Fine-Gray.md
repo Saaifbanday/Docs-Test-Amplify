@@ -1,6 +1,8 @@
 # Cox, Fine-Gray
 
-Fits a Fine-Gray Cox proportional hazards model for time-to-event data with censored observations when competing risks are present. Fine-Gray models model the effect of covariates on the cumulative incidence function. An alternative is to model the effect of covariates on the cause-specific hazard, for which standard Cox regression models can be used.
+Fits a Fine-Gray Cox proportional hazards model for time-to-event data with censored observations when competing risks are present. Fine-Gray models model the effect of covariates on the cumulative incidence function. 
+
+An alternative is to model the effect of covariates on the cause-specific hazard, for which standard Cox regression models can be used.
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
@@ -9,7 +11,7 @@ Steps
 
 ![alt text](screenshots/image198.png){ width="700" }{ border-effect="rounded" }
 
-__Attributes__
+## Attributes
 
 Enter model name
 : Specify the name of the model where the results will be stored.
@@ -32,20 +34,23 @@ Stratification Variables
 Weights
 : Numeric variable for observation weights. Useful in situations where each record should not be counted as one observation.
 
-### Options
-Model fitting statistics, parameter estimates, and hazard ratios are provided. Options available include the tied time method and model diagnostics.
+## Options
 
-#### Tied Time Method: 
-Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times.
+Tied Time Method
+: Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times.
 
-#### Model Diagnostics: 
-If selected, an assessment of proportional hazards and functional form of covariates will be assessed, including relevant plots. If there are stratification variables or non-numeric predictors, functional form plots will not be produced. The Null Model Martingale Residual Axis Minimum Value might need to be changed in order to see all Martingale residuals.
+Model Diagnostics
+: If selected, an assessment of proportional hazards and functional form of covariates will be assessed, including relevant plots. If there are stratification variables or non-numeric predictors, functional form plots will not be produced. The Null Model Martingale Residual Axis Minimum Value might need to be changed in order to see all Martingale residuals.
 
-#### Analysis of Deviance (Type II): 
-If selected, whole variable tests (including multi-degree of freedom tests for multi-category covariates) will be provided. Wald tests are used.
+Analysis of Deviance (Type II)
+: If selected, whole variable tests (including multi-degree of freedom tests for multi-category covariates) will be provided. Wald tests are used.
 
 >Required R packages: survival, broom, survminer, car, dplyr
 >
+{style="note"}
+
+> The model is fit using the finegray and coxph functions in the survival package.
+> 
 {style="note"}
 
 >Click the R Help button to get detailed R help about the coxph function. Go to Help-> R Function Help to get more information about the finegray function, which creates the needed dataset.
