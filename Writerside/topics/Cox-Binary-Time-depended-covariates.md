@@ -1,6 +1,10 @@
 # Cox, Binary Time-depended covariates
 
-Fits a Cox proportional hazards model for time-to-event data with censored observations that includes one or more binary time-dependent __"exposure"__ covariates. This type of covariate is one where the occurrence of a __"yes"__ can happen after the start of follow-up and once that __"yes"__ occurs it stays a __"yes"__ for the follow-up duration. An example would be rejection of a graft post-transplant (i.e. before the rejection occurs, the patient has not been "exposed"; after rejection occurs, the patient has been "exposed"). Treating such a covariate as being known at the start of follow-up is a form of looking into the future and leads to biased estimates (also known as "immortal time bias").
+Fits a Cox proportional hazards model for time-to-event data with censored observations that includes one or more binary time-dependent __"exposure"__ covariates. This type of covariate is one where the occurrence of a __"yes"__ can happen after the start of follow-up and once that __"yes"__ occurs it stays a __"yes"__ for the follow-up duration. 
+
+An example would be rejection of a graft post-transplant (i.e. before the rejection occurs, the patient has not been "exposed"; after rejection occurs, the patient has been "exposed"). 
+
+Treating such a covariate as being known at the start of follow-up is a form of looking into the future and leads to biased estimates (also known as "immortal time bias").
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
@@ -9,7 +13,14 @@ Steps
 
 ![alt text](screenshots/image197.png){ width="700" }{ border-effect="rounded" }
 
-__Arguments__
+> Using Formula Builder: A Guide
+>1.	To create an expression, click one of the buttons below and drag & drop variables.
+>2.	Toggle the selected button's state by clicking it.
+>3.	Place the cursor where user wants to insert the variable(s) and drag and drop or move it there.
+>4.	Touch a button to see assistance.
+>5.	The All N way button is not able to be toggled.
+
+## Arguments
 
 Enter model name
 : Name where the model results will be stored.
@@ -35,23 +46,23 @@ Subject identifier
 Weights
 : Numeric variable for observation weights. Useful in situations where each record should not be counted as one observation.
 
-### Options
+## Options
 Model fitting statistics, parameter estimates, and hazard ratios are provided. Options available include the tied time method, forest plots, model diagnostics, and the ability to view the underlying counting process data set that gets created.
 
-#### Tied Time Method:
-Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times. The exact method can be beneficial if there are many tied times, as in discrete time situations, but can take a little longer for the model to be fit.
+Tied Time Method
+: Method of breaking tied observed times. Efron is usually the better choice when there aren't many tied times. The exact method can be beneficial if there are many tied times, as in discrete time situations, but can take a little longer for the model to be fit.
 
-#### Forest Plot: 
-Will create a forest plot of hazard ratios and confidence intervals
+Forest Plot
+: Will create a forest plot of hazard ratios and confidence intervals
 
-#### Show (start, stop) Data Set: 
-Will show the underlying counting process data set used in the computations. This breaks each subject's follow-up time into parts, depending on when the time-dependent covariate should change values.
+Show (start, stop) Data Set
+: Will show the underlying counting process data set used in the computations. This breaks each subject's follow-up time into parts, depending on when the time-dependent covariate should change values.
 
-#### Model Diagnostics: 
-If selected, proportional hazards tests and plots will be provided, in addition to assessments of functional form for each covariate in the model. The null model Martingale residual axis minimum value option might need to be changed so that all residuals appear in the plot. To get functional form assessments, you must specify only numeric predictors and have no missing data. See Variables > Missing Values > Remove NAs.
+Model Diagnostics
+: If selected, proportional hazards tests and plots will be provided, in addition to assessments of functional form for each covariate in the model. The null model Martingale residual axis minimum value option might need to be changed so that all residuals appear in the plot. To get functional form assessments, you must specify only numeric predictors and have no missing data. See Variables > Missing Values > Remove NAs.
 
-#### Analysis of Deviance (Type II): 
-Global test of each predictor in the model. Multi-degree of freedom tests will be provided for effects with more than 2 levels. Wald and Likelihood ratio tests can be obtained, with likelihood ratio tests having better small sample properties.
+Analysis of Deviance (Type II)
+: Global test of each predictor in the model. Multi-degree of freedom tests will be provided for effects with more than 2 levels. Wald and Likelihood ratio tests can be obtained, with likelihood ratio tests having better small sample properties.
 
 >The model is fit using the `coxph` function in the survival package.
 > 

@@ -2,7 +2,19 @@
 
 Fits a stratified Cox proportional hazards model for time-to-event data with censored observations. This is a Cox model that allows a separate baseline hazard function for each strata level. Model fitting statistics, parameter estimates, and hazard ratios are provided. Options available include the tied time method and model diagnostics. The model is fit using the coxph function in the survival package.
 
+To analyse it in BioStat Prime user must follow the steps as given.
+
+Steps
+: __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Cox, Stratified -> There will appear a dialog -> Select the model name, time to event or sensor, events, populate a formula and select Stratification variables in the dialog -> Finally execute the plot and visualise the output in output window.__
+
 ![alt text](screenshots/image200.png){ width="700" }{ border-effect="rounded" }
+
+> Using Formula Builder: A Guide
+>1.	To create an expression, click one of the buttons below and drag & drop variables.
+>2.	Toggle the selected button's state by clicking it.
+>3.	Place the cursor where user wants to insert the variable(s) and drag and drop or move it there.
+>4.	Touch a button to see assistance.
+>5.	The All N way button is not able to be toggled.
 
 ### Attributes
 
