@@ -2,12 +2,15 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi" name="Help Instance"
+<instance-profile id="hi" name="UserGuide BioStat Prime"
                  start-page="INTRODUCTION.md">
 
+    <toc-element topic="BioStat-Prime.md"/>
+    <toc-element topic="Documentation-Key.md"/>
     <toc-element topic="INTRODUCTION.md"/>
     <toc-element topic="INSTALLATION.md"/>
     <toc-element topic="Licensing-Models.md"/>
+    <toc-element topic="Activating-Licenses.md"/>
     <toc-element topic="How-to-use-BioStat-Prime.md"/>
     <toc-element topic="File.md"/>
     <toc-element topic="Dataset.md">
@@ -157,6 +160,7 @@
         <toc-element topic="Analyse-Design.md"/>
         <toc-element topic="Features-of-BioStat-Prime-that-enhance-DOE.md"/>
     </toc-element>
+    <toc-element topic="Quality-Assurance.md"/>
     <toc-element topic="Triple-dots.md"/>
     <toc-element topic="Advanced-Users.md"/>
     <toc-element topic="Marketplace.md"/>

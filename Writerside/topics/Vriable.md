@@ -1,4 +1,4 @@
-# Variable
+# Variables-Operations
 
 This section of the main menu gives access to the variable manipulation commands. It contains various operations that can be performed on the variables, i.e ;
 
