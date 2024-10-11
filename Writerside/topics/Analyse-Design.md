@@ -2,9 +2,19 @@
 
 ### Design Analysis-Linear Model
 
+Builds a linear regression model for the design to analyze the response (i.e. the results recorded/collected from the experiments). Internally calls function lm in stats package. Displays a summary of the model, coefficient table, Anova table and sum of squares table and plots the following residuals vs. fitted, normal Q-Q, theoretical quantiles, residuals vs. leverage. You can optionally specify a variable with weights and choose to ignore the intercept.
+
+>For more details, see R help for the following
+>
+{style="note"} 
+
 ![alt text](screenshots/image261.png){ width="700" }{ border-effect="rounded" }
 
 ### Design Analysis-Response Surface Model
+
+Response-surface regression - fit a linear model with a response-surface component, and produce appropriate analyses and summaries
+
+In the formula builder, you can type SO(var1, var2, var3, ...) or FO(var1, ..) or other function from the rsm package - help(SO, package =rsm)
 
 ![alt text](screenshots/image262.png){ width="700" }{ border-effect="rounded" }
 
