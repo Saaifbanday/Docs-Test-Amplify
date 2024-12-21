@@ -1,4 +1,4 @@
-# Advanced Users
+# Advanced Functionalities
 
 In order to extend the functionalities of BioStat Prime, user can go a step further by enabling R console inside the software whenever needed. The R console provides user an opportunity for users, who knows the R programming language, to write, edit and execute the R code in console.
 

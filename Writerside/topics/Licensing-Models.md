@@ -12,6 +12,8 @@ Grace periods offer the flexibility to determine a specific timeframe, measured 
 
 During this defined interval, the license will retain its validity, ensuring a seamless transition even after the official expiration.
 
+## Trial
+
 ## Grouped
 
 ## Floating
@@ -22,4 +24,3 @@ A floating license operates within a license pool that multiple users or a set n
 ## Enterprise (Site licensing)
 A site license is a type of software license that grants permission to an organization or institution to use a software product across multiple computers or devices within a specific location or site.
 
-## Trial 

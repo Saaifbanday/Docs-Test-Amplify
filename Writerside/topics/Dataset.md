@@ -1,4 +1,4 @@
-# Dataset
+# Dataset- Data Management
 
 This section of the main menu gives access to the data manipulation commands for the sake of proper and customised analysis of the given dataset. It leads the user to sub functions like; 
 

@@ -1,4 +1,4 @@
-# Six Sigma
+# Six Sigma-Quality Control
 
 Six Sigma is a rigorous, focused and highly effective implementation of proven quality principles and techniques. Incorporating elements from the work of many quality pioneers, __Six Sigma aims for virtually error free business performance__. 
 

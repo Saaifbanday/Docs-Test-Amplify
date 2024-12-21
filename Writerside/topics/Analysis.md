@@ -1,6 +1,6 @@
-# Analysis
+# Data Analysis
 
-It’s one of the functions in main menu that facilitates the data analysis and statistical calculations. The main feature of this tab is that it provides a wide range of tests and statistical functions to the user. 
+Functions under main menu that facilitates the data analysis and statistical calculations. The main feature of this tab is that it provides a wide range of tests and statistical functions to the user. 
 
 The statistical techniques focus on the __design__, __analysis__, and __interpretation of data related to biology__, __medicine__, __public health__, and other __health sciences__. 
 

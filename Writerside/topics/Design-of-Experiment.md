@@ -1,4 +1,4 @@
-# Design of Experiment
+# Design of Experiment-Quality Control
 
 Using __Design of Experiments (DOE)__ techniques, user can determine the individual and interactive effects of various factors that can influence the output results of your measurements.
 

@@ -1,4 +1,4 @@
-# Triple dots
+# Settings Menu
 
 This is the last section of main menu of the software that comprises 5 sub menus. It is represented by 3 dots. Functionality of each menu is discussed below.
 
