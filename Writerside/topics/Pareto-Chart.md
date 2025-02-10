@@ -9,4 +9,4 @@ To analyse Pareto Chart in BioStat user must follow the steps given below.
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Pareto Chart -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image281.png){ width="700" }{ border-effect="rounded" }
+![Pareto Chart](screenshots/Pareto Chart.png){ width="700" }{ border-effect="rounded" }

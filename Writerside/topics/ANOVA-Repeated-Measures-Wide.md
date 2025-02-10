@@ -6,7 +6,7 @@ With repeated measures ANOVA F statistics are computed for each within subjects 
 >
 {style="note"}
 
-![alt text](screenshots/image119.png){ width="700" }{ border-effect="rounded" }
+![ANOVA Repeated Measures, Wide](screenshots/ANOVA Repeated Measures Wide.png){ width="700" }{ border-effect="rounded" }
 
 >NOTE:
 >1. BioStat Prime needs to reshape the data when running a repeated measures ANOVA on a wide dataset

@@ -9,11 +9,11 @@ It serves as a fundamental tool in statistical inference, hypothesis testing, an
 A Poisson distribution plot visually represents the probability distribution of a discrete random variable that represents the number of events occurring in a fixed interval of time or space, given a known average rate of occurrence.
 Plot distribution function
 
-![alt text](screenshots/image161.png){ width="700" }{ border-effect="rounded" }
+![Poisson Distribution Plot](screenshots/Poisson Distribution Plot.png){ width="700" }{ border-effect="rounded" }
 
 Plot probability mass function
 
-![alt text](screenshots/image162.png){ width="700" }{ border-effect="rounded" }
+![Plot probability mass function](screenshots/Plot probability mass function.png){ width="700" }{ border-effect="rounded" }
 
 #### Usage
 >dpois(x, lambda, log = FALSE)
@@ -59,7 +59,7 @@ The numerical arguments other than n are recycled to the length of the result. O
 
 Poisson's probabilities refer to the probabilities associated with the Poisson distribution.
 
-![alt text](screenshots/image163.png){ width="700" }{ border-effect="rounded" }
+![Poisson Probabilities](screenshots/Poisson Probabilities.png){ width="700" }{ border-effect="rounded" }
 
 #### Details {id="details_1"}
 
@@ -87,7 +87,7 @@ The numerical arguments other than n are recycled to the length of the result. O
 
 ### Poisson Quantiles
 
-![alt text](screenshots/image164.png){ width="700" }{ border-effect="rounded" }
+![Poisson Quantiles](screenshots/Poisson Quantiles.png){ width="700" }{ border-effect="rounded" }
 
 #### Details {id="details_2"}
 
@@ -114,7 +114,7 @@ The numerical arguments other than n are recycled to the length of the result. O
 
 ## Poisson Tail Probabilities
 
-![alt text](screenshots/image(0.4).png){ width="700" }{ border-effect="rounded" }
+![Poisson Tail Probabilities](screenshots/Poisson Tail Probabilities.png){ width="700" }{ border-effect="rounded" }
 
 #### Usage {id="usage_1"}
 
@@ -160,5 +160,5 @@ The numerical arguments other than n are recycled to the length of the result. O
 
 ## Sample from Poisson Distribution
 
-![alt text](screenshots/image(0.5).png){ width="700" }{ border-effect="rounded" }
+![Sample from Poisson Distribution](screenshots/Sample from Poisson Distribution.png){ width="700" }{ border-effect="rounded" }
 

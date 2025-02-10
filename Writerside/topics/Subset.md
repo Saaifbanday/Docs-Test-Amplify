@@ -3,7 +3,7 @@
 ### Subset {id="subset_1"}
 Subset datasets/dataframe. Returns a subset of the dataframe/dataset. User can specify the columns/variables that user wants in the smaller dataset. User can also specify selection criteria to be applied against each row of the dataframe.
 
-![alt text](screenshots/image50.png){ width="700" }{ border-effect="rounded" }
+![Subset](screenshots/Subset.png){ width="700" }{ border-effect="rounded" }
 
 ### Subset by Position
 This section of Subset tab, subsets a dataset according to row position.
@@ -44,7 +44,7 @@ __Include Tied Values__: Specifies whether tied values should be included or not
 >
 {style="note"}
 
-![alt text](screenshots/image51.png){ width="700" }{ border-effect="rounded" }
+![Subset Type](screenshots/Subset Type.png){ width="700" }{ border-effect="rounded" }
 
 ### Subset by Logic
 Returns a subset of the dataset. User can specify the columns/variables that user wants in the smaller dataset. User can also specify selection criteria to be applied against each row of the dataframe.
@@ -67,4 +67,4 @@ __Enter subsetting criteria__: Specify variable logic that will be used to filte
 >
 {style="note"}
 
-![alt text](screenshots/image52.png){ width="700" }{ border-effect="rounded" }
+![Subset by Logic](screenshots/Subset by Logic.png){ width="700" }{ border-effect="rounded" }

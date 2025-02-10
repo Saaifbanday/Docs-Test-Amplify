@@ -4,7 +4,7 @@ Aggregates one or more numeric (scale) variables by one or more factor variables
 
 For numeric variables user can calculate the following: `mean`, `median`, `sum`, `std deviation`, `n_distinct`, `max`, `min` and `var`. It also computes the counts in the aggregated dataset.
 
-![aggregate](screenshots/image22.png){ width="700" }{ border-effect="rounded" }
+![aggregate](screenshots/aggregate.png){ width="700" }{ border-effect="rounded" }
 
 To aggregate variables user needs to follow the steps given bellow.
 
@@ -15,7 +15,7 @@ __Load the dataset -> click on the DATASET tab in main menu -> select AGGREGATE 
 
 Output of aggregate is given as.
 
-![alt text](screenshots/image23.png){ width="700" }{ border-effect="rounded" }
+![aggregate](screenshots/aggregate2.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 

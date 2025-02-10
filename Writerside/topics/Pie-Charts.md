@@ -11,7 +11,7 @@ Steps
 
 The output of the Coxcomb Plot of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image186.png){ width="700" }{ border-effect="rounded" }
+![Coxcomb Plot](screenshots/Coxcomb Plot.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output.
 > 
@@ -30,7 +30,7 @@ Steps
 
 The output of the Pie Chart of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image187.png){ width="700" }{ border-effect="rounded" }
+![Pie Chart](screenshots/Pie Chart.png){ width="700" }{ border-effect="rounded" }
  
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >

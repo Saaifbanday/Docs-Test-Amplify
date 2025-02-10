@@ -2,37 +2,38 @@
 <tabs>
 <tab title="Windows">
 
-Installing BioStat Prime on Windows.
+BioStat Prime installation on Windows.
 
-*	Download the Windows installer of BioStat Prime from the given link.
+*	Use the link on the user dashboard to download the BioStat Prime Windows installer.
 
-*	Double-click on download button to download the BioStat Prime on PC/Laptop.
+*	To download BioStat Prime to your PC or laptop, double-click the download button.
 
-![alt text](screenshots/image1.png){ width="700" }{ border-effect="rounded" }
-
-
-*	Click on I agree to proceed to installation.
+![Installer of BioStat Prime](screenshots/image1.png){ width="700" }{ border-effect="rounded" }
 
 
-![alt text](screenshots/image2.png){ width="700" }{ border-effect="rounded" }
+*	Review the terms for License Agreement and click on `I Agree` to proceed with installation.
 
 
-*	Choose the directory where BioStat Prime will be installed and Click on Install to start the installation.
+![License Agreement](screenshots/image2.png){ width="700" }{ border-effect="rounded" }
 
 
-![alt text](screenshots/image3.png){ width="700" }{ border-effect="rounded" }
+*	To initiate the installation of BioStat Prime, select the folder where user wants to install the software and click `Install`.
+
+
+![Location for installation](screenshots/image3.png){ width="700" }{ border-effect="rounded" }
 
 
 *	Depending on user’s machine specifications, the installation may take up to 25 minutes.
 
 
-![alt text](screenshots/image4.png){ width="700" }{ border-effect="rounded" }
+![Installing](screenshots/image4.png){ width="700" }{ border-effect="rounded" }
 
 
-*	Run BioStat Prime.
+*	BioStat Prime will be installed in the location specified by user.
+*   Run BioStat Prime.
 
 
-![alt text](screenshots/image5.png){ width="700" }{ border-effect="rounded" }
+![Logo](screenshots/image5.png){ width="700" }{ border-effect="rounded" }
 </tab>
 
 <tab title="Mac OS">

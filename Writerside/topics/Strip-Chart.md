@@ -7,7 +7,7 @@ Steps
 
 The output of the Scatter Plot of a sample dataset can be seen in the picture below. 
 
-![alt text](screenshots/image191.png){ width="700" }{ border-effect="rounded" }
+![Strip Chart](screenshots/Strip Chart.png){ width="700" }{ border-effect="rounded" }
 
 >User can also flip axis, apply jitter effect, control the opacity of the plot in the output.
 > 

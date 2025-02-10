@@ -10,7 +10,7 @@ Model scoring does the following
 3. In the case where you are scoring a training dataset that contains the dependent variable/variable to predict and and the dependent variable has 2 levels, you have the option to select the reference level/level of interest.
 4. The confusion matrix and related statistics are created using the specified level of interest.
 
-![alt text](screenshots/image230.png){ width="700" }{ border-effect="rounded" }
+![Predict](screenshots/Predict.png){ width="700" }{ border-effect="rounded" }
 
 #### Arguments
 

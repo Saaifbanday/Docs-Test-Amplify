@@ -11,7 +11,7 @@ Steps
 
 The summary tab contains an option namely descriptive that contains all the descriptive statistic analysis techniques. Once the descriptive techniques are chosen and variables are targeted then, user needs to execute the dialog to see the analysis in output window.
 
-![alt text](screenshots/image137.png){ width="700" }{ border-effect="rounded" }
+![Descriptive Statistics](screenshots/Descriptive Statistics.png){ width="700" }{ border-effect="rounded" }
 
 In Descriptive function of summary tab, user can opt for options like MIN, MAX, MEAN, MEDIAN, SUM, STANDARD DEVIATION, STD ERROR MEAN as per the requirement.
 
@@ -61,7 +61,7 @@ This creates a table describing a dataset. Descriptions include the `dataset nam
 >
 {style="note"}
 
-![alt text](screenshots/image138.png){ width="700" }{ border-effect="rounded" }
+![Explore Dataset](screenshots/Explore Dataset.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -92,7 +92,7 @@ Outputs the following descriptive statistics and plots: `min`, `max`, `mean`, `m
 >
 {style="note"}
 
-![alt text](screenshots/image139.png){ width="700" }{ border-effect="rounded" }
+![Explore Variables](screenshots/Explore Variables.png){ width="700" }{ border-effect="rounded" }
 
 ## Frequency
 
@@ -100,4 +100,4 @@ This section of summary tab gives user a chance to evaluate the frequencies of d
 
 Generates the frequencies for every unique value in one or more variables or column names selected.
 
-![alt text](screenshots/image140.png){ width="700" }{ border-effect="rounded" }
+![Frequency](screenshots/Frequency.png){ width="700" }{ border-effect="rounded" }

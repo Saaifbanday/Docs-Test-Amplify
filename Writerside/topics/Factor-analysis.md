@@ -27,7 +27,7 @@ To analyse Factor Analysis in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select factor analysis tab -> Select Factor ->  Once the dialog appears choose the items to be included -> Specify no. of factors to be extracted, user can also save factors and take a scree plot -> Execute the dialog.__
 
-![alt text](screenshots/image109.png){ width="700" }{ border-effect="rounded" }
+![Factor Analysis](screenshots/Factor Analysis.png){ width="700" }{ border-effect="rounded" }
 
 For further information the user can explore model tuning and model evaluation options for the same.
 
@@ -61,7 +61,7 @@ Steps
 
 For further information the user can explore model tuning and model evaluation options for the same.
 
-![alt text](screenshots/image110.png){ width="700" }{ border-effect="rounded" }
+![Principal Component Analysis](screenshots/Principal Component Analysis.png){ width="700" }{ border-effect="rounded" }
 
 __The following are the different type argument:__
 

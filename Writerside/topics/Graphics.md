@@ -4,4 +4,4 @@ BioStat Prime provide users a variety of high-quality graphs and charts by utili
 
 `Bar Chart`, `Box Plot`, `Contour Plot`, `AB 2D Contour Plot`, `Distribution`, `HeatMap`, `Line Charts`, `Maps`, `Pie Charts`, `Scatter Plot`, `Stem and Leaf`, `Strip Chart`, `Violin`.
 
-![alt text](screenshots/image165.png){ width="700" }{ border-effect="rounded" }
+![Graphs and Charts](screenshots/Graphs and Charts.png){ width="700" }{ border-effect="rounded" }

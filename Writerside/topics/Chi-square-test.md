@@ -15,7 +15,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Chi square test -> This leads to analysis technique Chi-square Distribution plot in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image151.png){ width="700" }{ border-effect="rounded" }
+![Chi-square Distribution plot](screenshots/Chi-square Distribution plot.png){ width="700" }{ border-effect="rounded" }
 
 #### Usage
 >dchisq(x, df, ncp = 0, log = FALSE)
@@ -53,7 +53,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Chi square test -> This leads to analysis technique Chi-square Probabilities  in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image152.png){ width="700" }{ border-effect="rounded" }
+![Chi-square Probabilities](screenshots/Chi-square Probabilities.png){ width="700" }{ border-effect="rounded" }
 
 #### Usage {id="usage_1"}
 >dchisq(x, df, ncp = 0, log = FALSE)
@@ -91,7 +91,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Chi square test -> This leads to analysis technique Chi-square Quantiles in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image153.png){ width="700" }{ border-effect="rounded" }
+![Chi-square Quantiles](screenshots/Chi-square Quantiles.png){ width="700" }{ border-effect="rounded" }
 
 ### Sample from Chi-square Distribution
 
@@ -100,6 +100,6 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Chi square test -> this leads to analysis technique Sample from Chi-square Distribution in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image154.png){ width="700" }{ border-effect="rounded" }
+![Sample from Chi-square Distribution](screenshots/Sample from Chi-square Distribution.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image155.png){ width="700" }{ border-effect="rounded" }
+![Sample from Chi-square Distribution,output](screenshots/Sample from Chi-square Distribution,output.png){ width="700" }{ border-effect="rounded" }

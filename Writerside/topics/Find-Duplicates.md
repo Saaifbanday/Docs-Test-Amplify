@@ -12,21 +12,21 @@ So, a duplicate row means the values are equal to a previous row.
 > 
 {style="note"}
 
-![alt text](screenshots/image30.png){ width="700" }{ border-effect="rounded" }
+![Find Duplicates](screenshots/Find Duplicates.png){ width="700" }{ border-effect="rounded" }
 
 After finding the duplicates user can make 3 datasets, viz.
 
 1)	Dataset with all rows associated with the duplicates.
 
-![alt text](screenshots/image31.png){ width="700" }{ border-effect="rounded" }
+![Dataset with all rows associated with the duplicates](screenshots/Dataset with all rows associated with the duplicates.png){ width="700" }{ border-effect="rounded" }
 
 2)	Dataset with original data and column indicating duplicates.
 
-![alt text](screenshots/image32.png){ width="700" }{ border-effect="rounded" }
+![Dataset with original data and column indicating duplicates](screenshots/Dataset with original data and column indicating duplicates.png){ width="700" }{ border-effect="rounded" }
 
 3)	Dataset with all duplicates removed.
 
-![alt text](screenshots/image33.png){ width="700" }{ border-effect="rounded" }
+![Dataset with all duplicates removed](screenshots/Dataset with all duplicates removed.png){ width="700" }{ border-effect="rounded" }
 
 Summaries of the options in the Find Duplicates dialog is provided below.
 

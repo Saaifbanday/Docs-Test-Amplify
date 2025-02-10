@@ -7,7 +7,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Logistics, Advanced -> There will appear a dialog -> Select the model name, dependent variables and independent variable in the dialog -> Check the radio buttons to display a plot in the output -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image208.png){ width="700" }{ border-effect="rounded" }
+![Logistic Regression Advanced](screenshots/Logistic Regression Advanced.png){ width="700" }{ border-effect="rounded" }
 
 >NOTE
 > : When specifying a variable containing weights, be aware that since we use the option na.exlude to build the model, all NA values are automatically removed from the dependent and independent variables.

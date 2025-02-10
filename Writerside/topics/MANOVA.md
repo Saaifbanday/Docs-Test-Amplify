@@ -1,7 +1,7 @@
 # MANOVA
 Class __"manova"__ differs from class __"aov"__ in selecting a different summary method. Function __manova__ calls aov and then add class __"manova"__ to the result object for each stratum.​
 
-![alt text](screenshots/image120.png){ width="700" }{ border-effect="rounded" }
+![MANOVA](screenshots/MANOVA.png){ width="700" }{ border-effect="rounded" }
 
 Multivariate ANOVA
 : Omnibus multivariate tests and corresponding F and p values are provided. Follow up univariate tests are also provided.

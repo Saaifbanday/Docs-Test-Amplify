@@ -17,7 +17,7 @@ The p-values are corrected for multiple inference using `Holm's method` (see p.a
 
 >Observations are filtered for missing data, and only complete observations are used.
 
-![alt text](screenshots/image98.png){ width="700" }{ border-effect="rounded" }
+![Pearson, SpearmanCorrelation](screenshots/Pearson,SpearmanCorrelation.png){ width="700" }{ border-effect="rounded" }
 
 To analyse it in BioStat Prime user must follow the steps as given.
 

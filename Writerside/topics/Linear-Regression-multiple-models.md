@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Linear Regression, multiple models -> There will appear a dialog -> Select dependent variables, independent variable and Adjustment Variables, Sets in the dialog -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image207.png){ width="700" }{ border-effect="rounded" }
+![Linear Regression multiple models](screenshots/Linear Regression multiple models.png){ width="700" }{ border-effect="rounded" }
 
 ## Attributes
 

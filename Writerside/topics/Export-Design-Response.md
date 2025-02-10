@@ -10,4 +10,4 @@ Add column(s) that are compliant with R variable naming convention to the csv fi
 
 Once the response column(s) are added to the csv file, __DOE -> Import Design__ menu can be used to load the csv file against the correct design (already open) on the dataset UI grid.
 
-![alt text](screenshots/image244.png){ width="700" }{ border-effect="rounded" }
+![Export Design Response](screenshots/Export Design Response.png){ width="700" }{ border-effect="rounded" }

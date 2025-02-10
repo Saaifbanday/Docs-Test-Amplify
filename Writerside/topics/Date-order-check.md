@@ -7,7 +7,7 @@ For example, if three date columns are supposed to be in the order of date1 < da
 >
 {style="note"}
 
-![alt text](screenshots/image72.png){ width="700" }{ border-effect="rounded" }
+![Date order check](screenshots/Date order check.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 

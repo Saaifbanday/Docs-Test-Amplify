@@ -9,7 +9,7 @@ To analyse in Process Capability (QccPkg) BioStat user must follow the steps giv
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Process Capability -> Choose Process Capability (Qcc Pkg) -> This leads to analysis techniques in the dialog -> selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image287.png){ width="700" }{ border-effect="rounded" }
+![Process Capability (Qcc Pkg)](screenshots/Process Capability Qcc Pkg.png){ width="700" }{ border-effect="rounded" }
 
 ### Process Capability (SixSigma Pkg)
 
@@ -18,6 +18,6 @@ To analyse in Process Capability (SixSigma Pkg) BioStat user must follow the ste
 Steps
 : ___Load the dataset -> Click on the Six Sigma tab in main menu -> Select Process Capability -> Choose Process Capability (SixSigma Pkg) -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image289.png){ width="700" }{ border-effect="rounded" }
+![Process Capability (SixSigma Pkg)](screenshots/Process Capability SixSigma Pkg.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image290.png){ width="700" }{ border-effect="rounded" }
+![Process Capability SixSigma Pkg](screenshots/Process Capability SixSigma Pkg2.png){ width="700" }{ border-effect="rounded" }

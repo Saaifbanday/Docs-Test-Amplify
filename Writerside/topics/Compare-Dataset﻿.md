@@ -15,7 +15,7 @@ __Load the dataset -> click on the DATASET tab in main menu -> select Compare Da
 
 Output of comparison is given as.
 
-![alt text](screenshots/image24.png){ width="700" }{ border-effect="rounded" }
+![Compare Dataset](screenshots/Compare Dataset.png){ width="700" }{ border-effect="rounded" }
 
 The various options present in this dialog are explained as under.
 

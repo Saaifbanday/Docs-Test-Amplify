@@ -6,7 +6,7 @@ BioStat Prime will display a message confirming the models built with the BioSta
 
 User has to click the execute button (the horizontal triangle button) to load R objects saved to the selected file.
 
-![alt text](screenshots/image222.png){ width="700" }{ border-effect="rounded" }
+![Load Model from a file](screenshots/Load Model from a file.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

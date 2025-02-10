@@ -11,7 +11,7 @@ Steps
 
 >The user can choose additional options like transform variables, and plot options to decide whether to plot each series separately or combine the series.
 
-![alt text](screenshots/image235.png){ width="700" }{ border-effect="rounded" }
+![Plot Time Series, Separate OR Combined](screenshots/Plot Time Series Separate OR Combined.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

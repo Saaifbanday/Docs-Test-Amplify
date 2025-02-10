@@ -7,4 +7,4 @@ To analyse in Gage Bias Analysis BioStat user must follow the steps given below.
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select MSA -> Choose Gage Bias Analysis -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image286.png){ width="700" }{ border-effect="rounded" }
+![Gage Bias Analysis](screenshots/Gage Bias Analysis.png){ width="700" }{ border-effect="rounded" }

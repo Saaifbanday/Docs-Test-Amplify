@@ -11,7 +11,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Bartlett’s test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image148.png){ width="700" }{ border-effect="rounded" }
+![Bartlett’s Test](screenshots/Bartlett’s Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Levene’s Test
 
@@ -22,11 +22,11 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select variance -> The variance tab leads to Levene’s test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image149.png){ width="700" }{ border-effect="rounded" }
+![Levene’s Test](screenshots/Levene’s Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Variance Test, F-test
 
 The F-test is a statistical test used to compare variances between two or more groups. It is often employed in the context of analysis of variance (ANOVA) to assess whether the variances of different groups are equal. The F-test follows an F-distribution, and the null hypothesis is that the variances are equal across groups.
 
-![alt text](screenshots/image150.png){ width="700" }{ border-effect="rounded" }
+![Variance Test F-test](screenshots/Variance Test F-test.png){ width="700" }{ border-effect="rounded" }
 

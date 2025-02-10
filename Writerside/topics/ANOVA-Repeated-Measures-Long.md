@@ -6,7 +6,7 @@ With repeated measures ANOVA F statistics are computed for each within subjects 
 >
 {style="note"}
 
-![alt text](screenshots/image118.png){ width="700" }{ border-effect="rounded" }
+![ANOVA Repeated Measures, Long](screenshots/ANOVA Repeated Measures Long.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

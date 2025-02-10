@@ -23,7 +23,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Style
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Distribution tab -> The Distribution tab contains 7 options, select the first one namely Anderson-Darling Normality test -> This leads to analysis technique in the dialog -> Select variables to target -> Execute the dialog.__
 
-![alt text](screenshots/image102.png){ width="700" }{ border-effect="rounded" }
+![Anderson-Darling Normality Test](screenshots/Anderson-Darling Normality Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Kolmogorov-Smirnov Normality Test
 
@@ -42,7 +42,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu select Distribution tab -> The Distribution tab contains 7 options, select the second one namely Kolmogorov-Smirnov Normality test -> This leads to analysis technique in the dialog -> Select variables to target -> Execute the dialog.__
 
-![alt text](screenshots/image103.png){ width="700" }{ border-effect="rounded" }
+![Kolmogorov Smirnov Normality Test](screenshots/Kolmogorov-Smirnov Normality Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Shapiro-Wilk Normality Test
 
@@ -59,7 +59,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Distribution tab -> The Distribution tab contains 7 options, select the third one namely Shapiro-Wilk Normality Test -> This leads to the analysis technique in the dialog -> Select variables to target -> Execute the dialog.__
 
-![alt text](screenshots/image104.png){ width="700" }{ border-effect="rounded" }
+![Shapiro-Wilk Normality Test](screenshots/Shapiro-Wilk Normality Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Distribution Fit
 
@@ -72,7 +72,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Step
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Distribution tab -> The Distribution tab contains 7 options, select the fifth one namely Distribution Fit -> This leads to the analysis technique in the dialog -> Select variables to target -> Fit the test for various distributions -> Execute the dialog.__
 
-![alt text](screenshots/image105.png){ width="700" }{ border-effect="rounded" }
+![Distribution Fit](screenshots/Distribution Fit.png){ width="700" }{ border-effect="rounded" }
 
 The various distributions are visible in the output window.
 
@@ -101,7 +101,7 @@ mse
 
 Statistics of importance are Cramer-von Mises, Anderson-Darling and Kolmogorov statistics for continuous distributions and Chi-squared statistics for discrete ones ( "binom", "nbinom", "geom", "hyper" and "pois" )
 
-![alt text](screenshots/image106.png){ width="700" }{ border-effect="rounded" }
+![Distribution Fit Plot](screenshots/Distribution Fit Plot.png){ width="700" }{ border-effect="rounded" }
 
 ### Distribution Fit with Gamlss
 
@@ -116,7 +116,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Distribution tab -> The Distribution tab contains 7 options, select the sixth one namely Distribution Fit with Gamlss -> This leads to the analysis technique in the dialog -> Select variables that contains distribution -> Check the options at the bottom as per the preference -> Execute the dialog.__
 
-![alt text](screenshots/image107.png){ width="700" }{ border-effect="rounded" }
+![Distribution Fit with Gamlss](screenshots/Distribution Fit with Gamlss.png){ width="700" }{ border-effect="rounded" }
 
 The function fitDist() is using the function gamlssML() to fit all relevant parametric gamlss.family distributions, specified by the argument type, to a single data vector (with no explanatory variables). The final marginal distribution is the one selected by the generalised Akaike information criterion with penalty k. The default is k=2 i.e AIC which means that the "best" distribution is selected according to the classic AIC. k can be set to anything, such as log(n) for the BIC (not provided on the dialog at this time)
 
@@ -152,4 +152,4 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Distribution tab -> The Distribution tab contains 7 options, select the seventh one namely Distribution Analysis Cullen and Frey Graph -> This leads to the analysis technique in the dialog -> Select variables that contains distribution -> Check the options at the bottom as per the preference -> Execute the dialog.__
 
-![alt text](screenshots/image108.png){ width="700" }{ border-effect="rounded" }
+![Distribution Analysis Cullen and Frey Graph](screenshots/Distribution Analysis Cullen and Frey Graph.png){ width="700" }{ border-effect="rounded" }

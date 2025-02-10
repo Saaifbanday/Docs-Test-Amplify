@@ -2,18 +2,18 @@
 
 ### Inspect design
 
-![alt text](screenshots/image254.png){ width="700" }{ border-effect="rounded" }
+![Inspect design](screenshots/Inspect design.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image255.png){ width="700" }{ border-effect="rounded" }
+![Inspect design output](screenshots/Inspect design output.png){ width="700" }{ border-effect="rounded" }
 
 ### Plot Design
 
-![alt text](screenshots/image256.png){ width="700" }{ border-effect="rounded" }
+![Plot Design](screenshots/Plot Design.png){ width="700" }{ border-effect="rounded" }
 
 ### Browse FrF2 Design Catalog
 
-![alt text](screenshots/image257.png){ width="700" }{ border-effect="rounded" }
+![Browse FrF2 Design Catalog](screenshots/Browse FrF2 Design Catalog.png){ width="700" }{ border-effect="rounded" }
 
 ### Browse Orthogonal Design Catalog
 
-![alt text](screenshots/image258.png){ width="700" }{ border-effect="rounded" }
+![Browse Orthogonal Design Catalog](screenshots/Browse Orthogonal Design Catalog.png){ width="700" }{ border-effect="rounded" }

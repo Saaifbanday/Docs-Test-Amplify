@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Logistics, Conditional -> There will appear a dialog -> Select the model name, dependent variables, Strata, estimation method and populate the formula builder in the dialog -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image210.png){ width="700" }{ border-effect="rounded" }
+![Logistic Regression Conditional](screenshots/Logistic Regression Conditional.png){ width="700" }{ border-effect="rounded" }
 
 > Using Formula Builder: A Guide
 >1.	To create an expression, click one of the buttons below and drag & drop variables.

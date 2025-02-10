@@ -14,7 +14,7 @@ BIC is defined as AIC(object, ..., k = log(nobs(object))). This needs the number
 
 Generic function calculating Akaike's ‘An Information Criterion’ for one or several fitted model objects for which a log-likelihood value can be obtained, according to the formula -2*log-likelihood + k*npar, where npar represents the number of parameters in the fitted model, and k = 2 for the usual AIC, or k = log(n) (n being the number of observations) for the so-called BIC or SBC (Schwarz's Bayesian criterion).
 
-![alt text](screenshots/image225.png){ width="700" }{ border-effect="rounded" }
+![AIC](screenshots/AIC.png){ width="700" }{ border-effect="rounded" }
 
 ### Arguments
 
@@ -38,7 +38,7 @@ object
 k
 : numeric, the penalty per parameter to be used; the default k = 2 is the classical AIC.
 
-![alt text](screenshots/image226.png){ width="700" }{ border-effect="rounded" }
+![BIC](screenshots/BIC.png){ width="700" }{ border-effect="rounded" }
 
 ## Hosmer-Lemeshow Test
 
@@ -46,7 +46,7 @@ The function computes Hosmer-Lemeshow goodness of fit tests for C and H statisti
 
 Hosmer-Lemeshow goodness of fit tests are computed; see Lemeshow and Hosmer (1982). If X is specified, the le Cessie-van Houwelingen-Copas-Hosmer unweighted sum of squares test for global goodness of fit is additionally determined; see Hosmer et al. (1997). A more general version of this test is implemented in function residuals.lrm in package rms.
 
-![alt text](screenshots/image227.png){ width="700" }{ border-effect="rounded" }
+![Hosmer-Lemeshow Test](screenshots/Hosmer-Lemeshow Test.png){ width="700" }{ border-effect="rounded" }
 
 ### Arguments {id="arguments_2"}
 
@@ -69,7 +69,7 @@ verbose
 
 Numerous pseudo r-squared measures have been proposed for generalized linear models, involving a comparison of the log-likelihood for the fitted model against the log-likelihood of a null/restricted model with no predictors, normalized to run from zero to one as the fitted model provides a better fit to the data (providing a rough analogue to the computation of r-squared in a linear regression).
 
-![alt text](screenshots/image228.png){ width="700" }{ border-effect="rounded" }
+![Pseudo R Squared](screenshots/Pseudo R Squared.png){ width="700" }{ border-effect="rounded" }
 
 ### Arguments {id="arguments_3"}
 

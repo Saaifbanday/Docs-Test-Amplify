@@ -9,9 +9,9 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Linear, Advanced -> There will appear a dialog -> Select the model name, dependent variables and populate a formula in the dialog -> Check the radio button to display a plot in the output -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image201.png){ width="700" }{ border-effect="rounded" }
+![Linear Regression, Advanced](screenshots/Linear Regression Advanced.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image202.png){ width="700" }{ border-effect="rounded" }
+![Linear Regression, Advanced plot](screenshots/Linear Regression Advanced plot.png){ width="700" }{ border-effect="rounded" }
 
 > Using Formula Builder: A Guide
 >1.	To create an expression, click one of the buttons below and drag & drop variables.

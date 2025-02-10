@@ -8,7 +8,7 @@ If user selects an existing file, it will be overwritten.
 
 User has to click the execute button (the horizontal triangle button) to run the dialog and save the objects to a file.
 
-![alt text](screenshots/image221.png){ width="700" }{ border-effect="rounded" }
+![Save Model to a file](screenshots/Save Model to a file.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

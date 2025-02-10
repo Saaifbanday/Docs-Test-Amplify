@@ -12,13 +12,13 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select means -> The means tab leads to the ANOVA, one-way with random blocks analysis technique in the dialog -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image113.png){ width="700" }{ border-effect="rounded" }
+![ANOVA, one-way with random blocks](screenshots/ANOVAonewaywithrandomblocks.png){ width="700" }{ border-effect="rounded" }
 
 The output of the analysis is shown in the output window. The user can also opt for Histogram of residuals, Post-hoc analysis.
 
-![alt text](screenshots/image114.png){ width="700" }{ border-effect="rounded" }
+![ANOVA, one-way with random blocks, plot1](screenshots/ANOVA oneway with random blocks plot1.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image115.png){ width="700" }{ border-effect="rounded" }
+![ANOVA, one-way with random blocks, plot2](screenshots/ANOVA oneway with random blocks plot2.png){ width="700" }{ border-effect="rounded" }
 
 Arguments
 

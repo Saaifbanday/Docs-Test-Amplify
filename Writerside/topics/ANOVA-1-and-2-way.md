@@ -17,7 +17,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 __Load the dataset -> Click on the analysis tab in main menu -> Select means -> The means tab leads to the ANOVA,1 and 2 way analysis technique in the dialog -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image112.png){ width="700" }{ border-effect="rounded" }
+![ANOVA 1 and 2 way](screenshots/ANOVA1and2way.png){ width="700" }{ border-effect="rounded" }
 
 This function fits an analysis of variance model along with data summaries, displays type I,II,III sum of squares, displays marginal means and contrasts (using marginal means). Model is built with and without interaction effects. 
 

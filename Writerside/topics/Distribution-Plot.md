@@ -2,7 +2,7 @@
 
 The distribution tab of graphics menu contains 4 options of data visualization i.e., `Density`, `Histogram`, `P-P plot`, `Q-Q plot`.
 
-![alt text](screenshots/image171.png){ width="700" }{ border-effect="rounded" }
+![Distribution Plot](screenshots/Distribution Plot.png){ width="700" }{ border-effect="rounded" }
 
 The function of each option is discussed below.
 
@@ -15,7 +15,7 @@ Steps
 
 The output of the Density Plot of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image172.png){ width="700" }{ border-effect="rounded" }
+![Density](screenshots/Density.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >
@@ -34,7 +34,7 @@ Steps
 
 The output of the Histogram of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image173.png){ width="700" }{ border-effect="rounded" }
+![Histogram](screenshots/Histogram.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >
@@ -53,7 +53,7 @@ Steps
 
 The output of the PP Plots of a sample dataset can be seen in the picture below. 
 
-![alt text](screenshots/image174.png){ width="700" }{ border-effect="rounded" }
+![PP Plot](screenshots/PP Plot.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >
@@ -72,7 +72,7 @@ Steps
 
 The output of the QQ Plots of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image175.png){ width="700" }{ border-effect="rounded" }
+![QQ Plot](screenshots/QQ Plot.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >

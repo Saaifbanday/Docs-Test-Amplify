@@ -8,7 +8,7 @@ This sub function of BioStat Prime designate one or more variables to be respons
 >
 {style"note"}
 
-![alt text](screenshots/image259.png){ width="700" }{ border-effect="rounded" }
+![Add/Remove Response](screenshots/Add Remove Response.png){ width="700" }{ border-effect="rounded" }
 
 ### Add Centerpoint 2-Level Design (Quantitative)
 
@@ -20,4 +20,4 @@ add.center function to add center points to a 2-level fractional factorial desig
 >
 {style="note"}
 
-![alt text](screenshots/image260.png){ width="700" }{ border-effect="rounded" }
+![Add Centerpoint 2-Level Design (Quantitative)](screenshots/Add Centerpoint 2-Level Design Quantitative.png){ width="700" }{ border-effect="rounded" }

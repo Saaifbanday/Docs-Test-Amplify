@@ -17,7 +17,7 @@ To analyse in Shewhart Chart (Xbar,R,S) BioStat user must follow the steps given
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Shewhart Charts -> Choose Shewhart Chart (Xbar,R,S) -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image291.png){ width="700" }{ border-effect="rounded" }
+![Shewhart Chart (Xbar,R,S)](screenshots/Shewhart Chart Xbar,R,S.png){ width="700" }{ border-effect="rounded" }
 
 ### Shewhart Chart (P,NP,C,U)
 
@@ -28,7 +28,7 @@ To analyse in Shewhart Chart (P, NP, C, U) BioStat user must follow the steps gi
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Shewhart Charts -> Choose Shewhart Chart (P, NP, C, U) -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image292.png){ width="700" }{ border-effect="rounded" }
+![Shewhart Chart (P,NP,C,U)](screenshots/Shewhart Chart  P,NP,C,U.png){ width="700" }{ border-effect="rounded" }
 
 ### Shewhart Chart (Xbar.One/I-MR)
 
@@ -39,7 +39,7 @@ To analyse in Shewhart Chart (Xbar.One/I-MR) BioStat user must follow the steps 
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Shewhart Charts -> Choose Shewhart Chart (Xbar.One/I-MR) -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image293.png){ width="700" }{ border-effect="rounded" }
+![Shewhart Chart (Xbar.One/I-MR)](screenshots/Shewhart Chart XbarOneI-MR.png){ width="700" }{ border-effect="rounded" }
 
 ### Shewhart Chart (I-MR Between/Within)
 
@@ -50,4 +50,4 @@ To analyse in Shewhart Chart (I-MR Between/Within) BioStat user must follow the 
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select Shewhart Charts -> Choose Shewhart Chart (I-MR Between/Within) -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image294.png){ width="700" }{ border-effect="rounded" }
+![Shewhart Chart (I-MR Between/Within)](screenshots/Shewhart Chart I-MR BetweenWithin.png){ width="700" }{ border-effect="rounded" }

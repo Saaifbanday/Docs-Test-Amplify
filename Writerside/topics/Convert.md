@@ -11,19 +11,19 @@ The function above internally calls strftime in the base package.
 >
 {style="note"}
 
-![alt text](screenshots/image68.png){ width="700" }{ border-effect="rounded" }
+![Date to Character](screenshots/Date to Character.png){ width="700" }{ border-effect="rounded" }
 
 ### Character to Date
 Converts a character to a date (POSIXct class). User needs to specify the format of the date stored in a character string.
 
-![alt text](screenshots/image69.png){ width="700" }{ border-effect="rounded" }
+![Character to Date](screenshots/Character to Date.png){ width="700" }{ border-effect="rounded" }
 
 ### Convert to Factor
 The function factor is used to encode a vector as a factor (the terms ‘category’ and ‘enumerated type’ are also used for factors). If argument ordered is TRUE, the factor levels are assumed to be ordered. For compatibility with S there is also a function ordered. is.factor, is.ordered, as.factor and as.ordered are the membership and coercion functions for these classes.
 
-![alt text](screenshots/image70.png){ width="700" }{ border-effect="rounded" }
+![Convert to Factor](screenshots/Convert to Factor.png){ width="700" }{ border-effect="rounded" }
 
 ### Convert to ordered factor/ordinal
 The function factor is used to encode a vector as a factor (the terms ‘category’ and ‘enumerated type’ are also used for factors). If argument ordered is TRUE, the factor levels are assumed to be ordered. For compatibility with S there is also a function ordered. is.factor, is.ordered, as.factor and as.ordered are the membership and coercion functions for these classes.
 
-![alt text](screenshots/image71.png){ width="700" }{ border-effect="rounded" }
+![Convert to ordered factor/ordinal](screenshots/Convert to ordered factorordinal.png){ width="700" }{ border-effect="rounded" }

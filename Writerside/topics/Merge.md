@@ -23,7 +23,7 @@ To perform this operation in BioStat Prime user needs to follow the steps given 
 
 __Load the datasets -> click on the DATASET tab in main menu -> select MERGE -> select MERGE from the drop-down -> Once the dialog appears choose the Variables from each dataset -> add them to join the mapping -> Execute the dialog.__
 
-![alt text](screenshots/image35.png){ width="700" }{ border-effect="rounded" }
+![Merge](screenshots/Merge.png){ width="700" }{ border-effect="rounded" }
 
 >R Package Required: dplyr
 > 
@@ -31,7 +31,7 @@ __Load the datasets -> click on the DATASET tab in main menu -> select MERGE -> 
 
 ### Merge (legacy)
 
-![alt text](screenshots/image36.png){ width="700" }{ border-effect="rounded" }
+![Merge (legacy)](screenshots/Merge legacy.png){ width="700" }{ border-effect="rounded" }
 
 ### Stack
 This dialog will help user to stack 2 datasets on top of each other. User can select one of the following options.
@@ -49,9 +49,9 @@ Steps
 >
 {style="note"}
 
-![alt text](screenshots/image37.png){ width="700" }{ border-effect="rounded" }
+![Stack](screenshots/Stack.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image38.png){ width="700" }{ border-effect="rounded" }
+![Stack](screenshots/Stack2.png){ width="700" }{ border-effect="rounded" }
 
 {type="full"}
 Steps
@@ -83,6 +83,6 @@ This only deletes rows from the left dataset that match rows in the right datase
 >
 {style="note"}
 
-![alt text](screenshots/image39.png){ width="700" }{ border-effect="rounded" }
+![Merge Update](screenshots/Merge Update.png){ width="700" }{ border-effect="rounded" }
 
 

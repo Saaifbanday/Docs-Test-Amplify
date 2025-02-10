@@ -11,7 +11,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Cox, Binary Time-depended covariates -> There will appear a dialog -> Select the variables in the dialog and populate a formula -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image197.png){ width="700" }{ border-effect="rounded" }
+![Cox, Binary Time-depended covariates](screenshots/Cox Binary Time-depended covariates.png){ width="700" }{ border-effect="rounded" }
 
 > Using Formula Builder: A Guide
 >1.	To create an expression, click one of the buttons below and drag & drop variables.

@@ -7,7 +7,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Ordinal Regression -> There will appear a dialog -> Select the model name, dependent variables, and populate the formula builder in the dialog -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image213.png){ width="700" }{ border-effect="rounded" }
+![Ordinal Regression](screenshots/Ordinal Regression.png){ width="700" }{ border-effect="rounded" }
 
 This model is what Agresti (2002) calls a cumulative link model. The basic interpretation is as a coarsened version of a latent variable Y_i which has a logistic or normal or extreme-value or Cauchy distribution with scale parameter one and a linear model for the mean. The ordered factor which is observed is which bin Y_i falls into with breakpoints zeta_0 = -Inf < zeta_1 < … < zeta_K = Inf
 

@@ -7,7 +7,7 @@ Steps
 
 The output of the Stem and Leaf of a sample dataset can be seen in the picture below. 
 
-![alt text](screenshots/image190.png){ width="700" }{ border-effect="rounded" }
+![Stem And Leaf](screenshots/Stem And Leaf.png){ width="700" }{ border-effect="rounded" }
 
 >User can also Trim the outlines, show depths, Reverse negative leaves.
 >

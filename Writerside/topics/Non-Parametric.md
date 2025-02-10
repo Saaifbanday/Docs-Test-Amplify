@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Chi-Square test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image127.png){ width="700" }{ border-effect="rounded" }
+![Chi-Square test](screenshots/Chi-Square test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -43,7 +43,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Friedman Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image128.png){ width="700" }{ border-effect="rounded" }
+![Friedman Test](screenshots/Friedman Test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -76,11 +76,11 @@ To analyse it in BioStat Prime user must follow the steps as given.
 
 __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Kruskal-Wallis Rank Sum Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image129.png){ width="700" }{ border-effect="rounded" }
+![Kruskal-Wallis Rank Sum Test](screenshots/Kruskal-Wallis Rank Sum Test.png){ width="700" }{ border-effect="rounded" }
 
 Box plot for variable.
 
-![alt text](screenshots/image130.png){ width="700" }{ border-effect="rounded" }
+![Kruskal-Wallis Rank Sum Test,plot](screenshots/Kruskal-Wallis Rank Sum Test,plot.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -111,7 +111,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, independent samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image131.png){ width="700" }{ border-effect="rounded" }
+![Wilcoxon Test, independent samples](screenshots/Wilcoxon Test independent samples.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -163,7 +163,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Step
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Signed-Rank Test, one sample -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image132.png){ width="700" }{ border-effect="rounded" }
+![Wilcoxon Signed-Rank Test, one sample](screenshots/Wilcoxon Signed-Rank Test one sample.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -215,7 +215,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, paired samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image133.png){ width="700" }{ border-effect="rounded" }
+![Wilcoxon Test, Paired samples](screenshots/Wilcoxon Test Paired samples.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

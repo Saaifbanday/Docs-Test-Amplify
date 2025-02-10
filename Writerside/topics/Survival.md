@@ -11,11 +11,11 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, Compare groups -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image141.png){ width="700" }{ border-effect="rounded" }
+![Competing Risks, Compare groups](screenshots/Competing Risks Compare groups.png){ width="700" }{ border-effect="rounded" }
 
 Competing Risks Estimate for all events in the output window.
 
-![alt text](screenshots/image142.png){ width="700" }{ border-effect="rounded" }
+![Competing Risks Estimate for all events](screenshots/Competing Risks Estimate for all events.png){ width="700" }{ border-effect="rounded" }
 
 ### Competing Risks, One group
 
@@ -26,7 +26,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Competing Risks, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image143.png){ width="700" }{ border-effect="rounded" }
+![Competing Risks, One group](screenshots/Competing Risks One group.png){ width="700" }{ border-effect="rounded" }
 
 ### Kaplan-Meier Estimation, compare groups
 
@@ -41,8 +41,8 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select survival -> The survival tab leads to Kaplan-Meier Estimation, one  group -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image144.png){ width="700" }{ border-effect="rounded" }
+![Kaplan-Meier Estimation, One group](screenshots/Kaplan-Meier Estimation One group.png){ width="700" }{ border-effect="rounded" }
 
 Kaplan-Meier Estimates in the output.
 
-![alt text](screenshots/image145.png){ width="700" }{ border-effect="rounded" }
+![Kaplan-Meier Estimates in the output](screenshots/Kaplan-Meier Estimates in the output.png){ width="700" }{ border-effect="rounded" }
