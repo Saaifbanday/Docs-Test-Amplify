@@ -8,7 +8,7 @@ Builds a linear regression model for the design to analyze the response (i.e. th
 >
 {style="note"} 
 
-![alt text](screenshots/image261.png){ width="700" }{ border-effect="rounded" }
+![Design Analysis-Linear Model](screenshots/Design Analysis-Linear Model.png){ width="700" }{ border-effect="rounded" }
 
 ### Design Analysis-Response Surface Model
 
@@ -16,15 +16,15 @@ Response-surface regression - fit a linear model with a response-surface compone
 
 In the formula builder, you can type SO(var1, var2, var3, ...) or FO(var1, ..) or other function from the rsm package - help(SO, package =rsm)
 
-![alt text](screenshots/image262.png){ width="700" }{ border-effect="rounded" }
+![Design Analysis-Response Surface Model](screenshots/Design Analysis-Response Surface Model.png){ width="700" }{ border-effect="rounded" }
 
 ### Main Effect And Interaction Plots (General)
 
-![alt text](screenshots/image263.png){ width="700" }{ border-effect="rounded" }
+![Main Effect And Interaction Plots (General)](screenshots/Main Effect And Interaction Plots General.png){ width="700" }{ border-effect="rounded" }
 
 ### Half Normal Plot For 2 levels
 
-![alt text](screenshots/image264.png){ width="700" }{ border-effect="rounded" }
+![Half Normal Plot For 2 levels](screenshots/Half Normal Plot For 2 levels.png){ width="700" }{ border-effect="rounded" }
 
 ### Full Factor Analysis (in detail)
 
@@ -39,10 +39,10 @@ __Load the dataset (as specified above in DoE section) -> Click on the DoE tab i
 
 The output will be represented in output window.The output window shows the message that Full Factorial Design has been created.
 
-![alt text](screenshots/image265.png){ width="700" }{ border-effect="rounded" }
+![Full Factor Analysis (in detail)](screenshots/Full Factor Analysis in detail.png){ width="700" }{ border-effect="rounded" }
 
 The user can now inspect the design as  shown below.
 
-![alt text](screenshots/image266.png){ width="700" }{ border-effect="rounded" }
+![Full Factor Analysis (in detail) output1](screenshots/Full Factor Analysis in detail output1.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image267.png){ width="700" }{ border-effect="rounded" }
+![Full Factor Analysis (in detail) output2](screenshots/Full Factor Analysis in detail output2.png){ width="700" }{ border-effect="rounded" }

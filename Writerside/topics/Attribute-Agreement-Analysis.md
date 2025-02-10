@@ -11,6 +11,6 @@ To analyse in Attribute Agreement Analysis BioStat user must follow the steps gi
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select MSA -> Choose Attribute Agreement Analysis -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image284.png){ width="700" }{ border-effect="rounded" }
+![Attribute Agreement Analysis](screenshots/Attribute Agreement Analysis.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image285.png){ width="700" }{ border-effect="rounded" }
+![Attribute Agreement Analysis](screenshots/Attribute Agreement Analysis2.png){ width="700" }{ border-effect="rounded" }

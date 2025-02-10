@@ -1,7 +1,7 @@
 # Recode Variables
 Recodes one or more a numeric vector, character vector, or factors according to recode specifications. User can store the results by overwriting existing variables, specifying new variable names to store recoded values or choosing to store the recoded values in new variables with a suitable prefix or suffix. the prefix or suffix will be applied to the existing variable name.
 
-![alt text](screenshots/image93.png){ width="700" }{ border-effect="rounded" }
+![Recode Variables](screenshots/Recode Variables.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

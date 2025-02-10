@@ -7,4 +7,4 @@ To analyse EWMA chart in BioStat user must follow the steps given below.
 Steps
 : __Load the dataset -> Click on the Six Sigma tab in main menu -> Select EWMA chart -> This leads to analysis techniques in the dialog -> Selected the various options in the dialog according to the requirement -> Execute and visualise the output in output window.__
 
-![alt text](screenshots/image296.png){ width="700" }{ border-effect="rounded" }
+![EWMA Chart](screenshots/EWMA Chart.png){ width="700" }{ border-effect="rounded" }

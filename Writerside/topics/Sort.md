@@ -11,14 +11,14 @@ __Location__: Location in the data set to move the variables. First places the v
 >
 {style="note"}
 
-![alt text](screenshots/image47.png){ width="700" }{ border-effect="rounded" }
+![Move Variables](screenshots/Move Variables.png){ width="700" }{ border-effect="rounded" }
 
 ### Reorder Variables
 Re-order variables in the dataset in alphabetical order. User uses the sort function to sort the names of the columns/variables in the dataset and the select function in the package dplyr to select the column names in the correct alphabetical order.
 
-![alt text](screenshots/image48.png){ width="700" }{ border-effect="rounded" }
+![Reorder Variables](screenshots/Reorder Variables.png){ width="700" }{ border-effect="rounded" }
 
 ### Sort Dataset
 To sort a variable in descending order, user must select desc from the sort options and move the variable user wants to sort by.
 
-![alt text](screenshots/image49.png){ width="700" }{ border-effect="rounded" }
+![Sort Dataset](screenshots/Sort Dataset.png){ width="700" }{ border-effect="rounded" }

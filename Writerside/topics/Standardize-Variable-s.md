@@ -1,7 +1,7 @@
 # Standardize Variable(s)
 Standardizes variables (z scores). The standardized values are stored in new variables with either the prefix or suffix of the original variables. The option is provide to center and/or scale.
 
-![alt text](screenshots/image94.png){ width="700" }{ border-effect="rounded" }
+![Standardize Variable(s)](screenshots/Standardize Variable.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

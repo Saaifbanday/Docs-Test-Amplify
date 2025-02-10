@@ -5,7 +5,7 @@ Can optionally specify variables to sort by or group by before the identificatio
 
 >If no grouping variables are specified, the overall row number of the dataset will be assigned to the ID variable.
 
-![alt text](screenshots/image84.png){ width="700" }{ border-effect="rounded" }
+![ID Variable](screenshots/ID Variable.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 
@@ -29,4 +29,4 @@ __Output Dataset__
 >
 {style="note"}
 
-![alt text](screenshots/image84.png){ width="700" }{ border-effect="rounded" }
+![ID Variable](screenshots/ID Variable.png){ width="700" }{ border-effect="rounded" }

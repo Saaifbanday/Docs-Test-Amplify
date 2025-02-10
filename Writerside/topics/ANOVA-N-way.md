@@ -18,7 +18,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select means The means tab leads to the ANOVA, N way analysis technique in the dialog -> In the dialog select the target variable and create a formula according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image117.png){ width="700" }{ border-effect="rounded" }
+![ANOVA, N way](screenshots/ANOVA N way.png){ width="700" }{ border-effect="rounded" }
 
 >NOTE:
 >1. To get all marginal means and post-hocs user needs to construct a formula with the main effects and all the interaction terms in the model.

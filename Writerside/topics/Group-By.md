@@ -13,7 +13,7 @@ Splits allow you to separate the dataset into groups defined by one or more spli
 
 Removes the split (if a split is set on the dataset).
 
-![alt text](screenshots/image34.png){ width="700" }{ border-effect="rounded" }
+![Remove Split](screenshots/Remove Split.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 

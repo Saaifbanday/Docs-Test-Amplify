@@ -9,7 +9,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Lognormal -> Select Lognormal Distribution-> This leads to analysis techniques in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image156.png){ width="700" }{ border-effect="rounded" }
+![Lognormal Distribution Plot](screenshots/Lognormal Distribution Plot.png){ width="700" }{ border-effect="rounded" }
 
 Density, distribution function, quantile function and random generation for the log normal distribution whose logarithm has mean equal to meanlog and standard deviation equal to sdlog.
 
@@ -45,7 +45,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Lognormal -> Select Lognormal Probabilities -> This leads to analysis techniques in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image(0.1).png){ width="700" }{ border-effect="rounded" }
+![Lognormal Probabilities](screenshots/Lognormal Probabilities.png){ width="700" }{ border-effect="rounded" }
 
 ## Lognormal Quantiles
 
@@ -54,7 +54,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Lognormal -> Select Lognormal Quantiles -> This leads to analysis techniques in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image(0.2).png){ width="700" }{ border-effect="rounded" }
+![Lognormal Quantiles](screenshots/Lognormal Quantiles.png){ width="700" }{ border-effect="rounded" }
 
 ## Sample from Lognormal Distribution
 
@@ -63,7 +63,7 @@ To analyse it in BioStat user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Distribution tab in main menu -> Select Lognormal -> Select Sample from Lognormal Distribution -> This leads to analysis techniques in the dialog -> In the dialog window select the options according to the requirements then execute -> The output will be represented in output window.__
 
-![alt text](screenshots/image(0.3).png){ width="700" }{ border-effect="rounded" }
+![Sample from Lognormal Distribution](screenshots/Sample from Lognormal Distribution.png){ width="700" }{ border-effect="rounded" }
 
 
 

@@ -7,4 +7,4 @@ Steps
 
 The output of the 2D Contour Plot of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image170.png){ width="700" }{ border-effect="rounded" }
+![AB 2D Contour Plot](screenshots/AB 2D Contour Plot.png){ width="700" }{ border-effect="rounded" }

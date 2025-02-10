@@ -18,7 +18,7 @@ Steps
 >4.	Touch a button to see assistance.
 >5.	The All N way button is not able to be toggled.
 
-![alt text](screenshots/image195.png){ width="700" }{ border-effect="rounded" }
+![Cox Proportional Hazards Model](screenshots/Cox Proportional Hazards Model.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

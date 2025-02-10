@@ -3,7 +3,7 @@
 ### Character/Factor
 Replace missing values in the variables selected by the specified value. When using the dialog, user doesn't have to enclose the string in double quotes
 
-![alt text](screenshots/image86.png){ width="700" }{ border-effect="rounded" }
+![Character/Factor](screenshots/CharacterFactor.png){ width="700" }{ border-effect="rounded" }
 
 ### Fill Values Downward or Upward
 This dialog fills in missing values in dataset columns by using the previous entry in each column. This can be useful in cases where values are not repeated, but recorded each time they change. Typically, this means the dataset is sorted in a meaningful way. The variables where values are filled in will be overwritten.
@@ -23,13 +23,13 @@ __Direction__
 >
 {style="note"}
 
-![alt text](screenshots/image87.png){ width="700" }{ border-effect="rounded" }
+![Fill Values Downward or Upward](screenshots/Fill Values Downward or Upward.png){ width="700" }{ border-effect="rounded" }
 
 ### Model Imputation
 BioStat Prime first constructs a model using the variable to impute values for as the dependent variable.
 It then uses the constructed model to predict values and replace missing values in the dependent variable by the predicted values.
 
-![alt text](screenshots/image88.png){ width="700" }{ border-effect="rounded" }
+![Model Imputation](screenshots/Model Imputation.png){ width="700" }{ border-effect="rounded" }
 
 The simputation package offers a number of commonly used single imputation methods, each with a similar simple interface. The following imputation methodology is supported.
 >• linear regression
@@ -54,7 +54,7 @@ The simputation package offers a number of commonly used single imputation metho
 ### Numeric
 Replace missing values in variables selected by the operation selected i.e. median, mean, min, max
 
-![alt text](screenshots/image89.png){ width="700" }{ border-effect="rounded" }
+![Numeric](screenshots/Numeric.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -67,7 +67,7 @@ __Dataset__
 ### Remove NAs
 Remove missing values/NA from dataset/dataframe Creates new/Overwrites existing dataset by removing rows with one or more missing values for the columns/variable names selected
 
-![alt text](screenshots/image90.png){ width="700" }{ border-effect="rounded" }
+![Remove NAs](screenshots/Remove NAs.png){ width="700" }{ border-effect="rounded" }
 
 Arguments
 : ​object: an R object.​
@@ -75,7 +75,7 @@ Arguments
 ### Impute Missing Values using a formula
 Construct a formula to replace missing values. For example user builds a regression model to develop estimates for the missing values, once the equation is generated, user can plug the equation into the dialog and only the missing values in the variable selected will be computed.
 
-![alt text](screenshots/image91.png){ width="700" }{ border-effect="rounded" }
+![Impute Missing Values using a formula](screenshots/Impute Missing Values using a formula.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

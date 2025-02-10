@@ -8,6 +8,6 @@ Once the factor details are automatically generated and the factor table shows u
 
 >If the number of factors are <= 26, the factors are named with upper case alphabets as A, B, C, .., otherwise, named as F1, F2, ..., F27, F28, ..
 
-![alt text](screenshots/image241.png){ width="700" }{ border-effect="rounded" }
+![Create DoE Factor Details](screenshots/Create DoE Factor Details.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image242.png){ width="700" }{ border-effect="rounded" }
+![Create DoE Factor ](screenshots/Create DoE Factor.png){ width="700" }{ border-effect="rounded" }

@@ -14,4 +14,4 @@ In addition, designating/un-designating one or more response column(s) can be pe
 >
 {style="note"}
 
-![alt text](screenshots/image243.png){ width="700" }{ border-effect="rounded" }
+![Import Design Response](screenshots/Import Design Response.png){ width="700" }{ border-effect="rounded" }

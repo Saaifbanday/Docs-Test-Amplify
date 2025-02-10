@@ -11,7 +11,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Moments -> The moments tab leads to D’Agostino skewness test in the dialog -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image126.png){ width="700" }{ border-effect="rounded" }
+![D’Agostino skewness test](screenshots/D’Agostino skewness test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

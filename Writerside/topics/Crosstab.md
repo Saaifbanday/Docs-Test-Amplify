@@ -29,7 +29,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select Crosstab -> TheCrosstab contains 3 options, select the first one namely crosstab -> This leads to the crosstab analysis technique in the dialog -> Select the row and column variables -> Execute the dialog.__
 
-![alt text](screenshots/image99.png){ width="700" }{ border-effect="rounded" }
+![Crosstab](screenshots/Crosstab.png){ width="700" }{ border-effect="rounded" }
 
 The result of the analysis will be visible in the output. 
 
@@ -54,7 +54,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> click on the analysis tab in main menu -> Select Crosstab -> The Crosstab contains 3 options, select the second one namely crosstab list -> This leads to the crosstablist analysis technique in the dialog -> Select variables for the table -> Execute the dialog.__
 
-![alt text](screenshots/image100.png){ width="700" }{ border-effect="rounded" }
+![Crosstab List](screenshots/Crosstab List.png){ width="700" }{ border-effect="rounded" }
 
 User can also opt for other options at the bottom related to __frequencies__, __include combinations with 0 counts__, __show top N most frequent values__.
 
@@ -98,7 +98,7 @@ __A significant chi-square test suggests that the variables are associated.__
 >
 {style="note"}
 
-![alt text](screenshots/image101.png){ width="700" }{ border-effect="rounded" }
+![Odds Ratio Relative Risks, M by 2 Table](screenshots/OddsRatioRelativeRisksMby2Table.png){ width="700" }{ border-effect="rounded" }
 
 To analyze all three of them in BioStat Prime user must follow the steps as given.
 

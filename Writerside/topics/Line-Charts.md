@@ -2,7 +2,7 @@
 
 The Line Charts tab of graphics menu contains 4 options of data visualization i.e., `Frequency Chart`, `Line Chart`, `Plot of Means`, `Two Y Axis`.
 
-![alt text](screenshots/image178.png){ width="700" }{ border-effect="rounded" }
+![Line Charts](screenshots/Line Charts.png){ width="700" }{ border-effect="rounded" }
 
 ### Frequency Chart
 
@@ -13,7 +13,7 @@ Steps
 
 The output of the Frequency Chart of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image179.png){ width="700" }{ border-effect="rounded" }
+![Frequency Chart](screenshots/Frequency Chart.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >
@@ -32,7 +32,7 @@ Steps
 
 The output of the Line Chart of a sample dataset can be seen in the picture below. 
 
-![alt text](screenshots/image180.png){ width="700" }{ border-effect="rounded" }
+![Line Chart](screenshots/Line Chart.png){ width="700" }{ border-effect="rounded" }
 
 >The Options tab and Facets tab at the bottom can be utilized to add more features to the output. 
 >
@@ -51,7 +51,7 @@ Steps
 
 The output of the Plot of Means a sample dataset can be seen in the picture below. 
 
-![alt text](screenshots/image181.png){ width="700" }{ border-effect="rounded" }
+![Plot of Means](screenshots/Plot of Means.png){ width="700" }{ border-effect="rounded" }
 
 >User can also flip axes, Control opacity, error bars, specify intervals for the output.
 >
@@ -64,4 +64,4 @@ For representing any dataset in terms of Line Chart with two Y axis.
 Steps
 : __Load the dataset that needs to be visualized -> Go to Graphics -> Line Chart -> Two Y Axis -> Put in the values for variables -> Execute the dialog.__
 
-![alt text](screenshots/image182.png){ width="700" }{ border-effect="rounded" }
+![Two Y axis](screenshots/Two Y axis.png){ width="700" }{ border-effect="rounded" }

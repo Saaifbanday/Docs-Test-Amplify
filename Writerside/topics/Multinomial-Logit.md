@@ -14,7 +14,7 @@ Steps
 >4.	Touch a button to see assistance.
 >5.	The All N way button is not able to be toggled.
 
-![alt text](screenshots/image212.png){ width="700" }{ border-effect="rounded" }
+![Multinomial Logit](screenshots/Multinomial Logit.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

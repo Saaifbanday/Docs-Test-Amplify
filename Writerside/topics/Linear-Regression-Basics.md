@@ -5,9 +5,9 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Linear, Basics -> There will appear a dialog -> Select the model name, dependent variables and independent variable in the dialog -> Check the radio buttons to display a plot in the output -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image203.png){ width="700" }{ border-effect="rounded" }
+![Linear Regression, Basics](screenshots/Linear Regression Basics.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image204.png){ width="700" }{ border-effect="rounded" }
+![Linear Regression, Basics plot](screenshots/Linear Regression Basics plot.png){ width="700" }{ border-effect="rounded" }
 
 > Using Formula Builder: A Guide
 >1.	To create an expression, click one of the buttons below and drag & drop variables.

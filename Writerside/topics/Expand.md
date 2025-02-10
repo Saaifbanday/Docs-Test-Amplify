@@ -7,19 +7,19 @@ To expand weights user needs to follow the steps given bellow.
 Steps
 : __Load the dataset -> Click on the DATASET tab in main menu -> select EXPAND -> Once the dialog appears choose the Variable to be expanded -> Execute the dialog.__
 
-![alt text](screenshots/image25.png){ width="700" }{ border-effect="rounded" }
+![Expand](screenshots/Expand.png){ width="700" }{ border-effect="rounded" }
 
 Before expanding weights.
 
-![alt text](screenshots/image26.png){ width="700" }{ border-effect="rounded" }
+![Before expanding](screenshots/Expand Before expanding.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image27.png){ width="700" }{ border-effect="rounded" }
+![Expand Before expanding](screenshots/Expand Before expanding2.png){ width="700" }{ border-effect="rounded" }
 
 After Expanding weights.
 
-![alt text](screenshots/image28.png){ width="700" }{ border-effect="rounded" }
+![Expand After Expanding](screenshots/Expand After Expanding.png){ width="700" }{ border-effect="rounded" }
 
-![alt text](screenshots/image29.png){ width="700" }{ border-effect="rounded" }
+![Expand After Expanding](screenshots/Expand After Expanding2.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 

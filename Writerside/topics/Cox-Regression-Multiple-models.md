@@ -7,7 +7,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Cox Regression, Multiple models -> There will appear a dialog -> It is required to select the independent variables in the dialog, set time and set event -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image199.png){ width="700" }{ border-effect="rounded" }
+![Cox Regression Multiple models](screenshots/Cox Regression Multiple models.png){ width="700" }{ border-effect="rounded" }
 
 ## Attributes
 

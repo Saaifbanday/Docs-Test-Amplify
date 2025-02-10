@@ -11,7 +11,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select proportions -> The proportions tab leads to Two Sample Proportion Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image134.png){ width="700" }{ border-effect="rounded" }
+![Two Sample Proportion Test](screenshots/Two Sample Proportion Test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -44,7 +44,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select proportions -> The proportions tab leads to Single Sample Exact Binomial Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image135.png){ width="700" }{ border-effect="rounded" }
+![Single Sample Exact Binomial Test](screenshots/Single Sample Exact Binomial Test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 
@@ -74,7 +74,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select proportions -> The proportions tab leads to Single Sample Proportion Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image136.png){ width="700" }{ border-effect="rounded" }
+![Single Sample Proportion Test](screenshots/Single Sample Proportion Test.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 

@@ -6,11 +6,11 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Linear regression -> This leads to analysis techniques dropdown -> The various options in the dialog can be selected to opt for plot etc -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image193.png){ width="700" }{ border-effect="rounded" }
+![Regression](screenshots/Regression.png){ width="700" }{ border-effect="rounded" }
 
 BioStat also provides advanced regression analysis functions that can create models based on interactive terms via formula builder.
 
-![alt text](screenshots/image194.png){ width="700" }{ border-effect="rounded" }
+![Regression formula builder](screenshots/Regression formula builder.png){ width="700" }{ border-effect="rounded" }
 
 >Note that the variables so selected are substituted as quotients in the formula built by the user.
 >

@@ -11,7 +11,7 @@ To populate the spreadsheet user can either type manually or user can __copy pas
 UI
 : The User Interface (UI) of BioStat Prime is divided into following sections; Main menu, Sub menu, [Output window](#output-window "Output is displayed in the output window."), [Data-grid](#working-with-data-grid "A blank unconstrained spreadsheet") and [R console](Advanced-Users.md "The R console provides an opportunity for users to write, edit and execute the R code in console."), Zoom control.
 
-![alt text](screenshots/image6.png){ width="700" }{ border-effect="rounded" }
+![The UI of the software](screenshots/The UI of the software.png){ width="700" }{ border-effect="rounded" }
 
 All the datasets that are imported into the software are displayed in the data-grid. The data-grid has two panes: `data pane` and `variable pane`. 
 
@@ -39,18 +39,18 @@ In data pane user has access to various data types and in variable pane user has
 
 > Whenever user enters some data the output shows a comment stating Grid Edit.
 
-![alt text](screenshots/image7.png){ width="700" }{ border-effect="rounded" }
+![Working with Data-grid](screenshots/Working with Data-grid.png){ width="700" }{ border-effect="rounded" }
 
 
 This will open a pop-up window as shown above.
 
-![alt text](screenshots/image8.png){ width="700" }{ border-effect="rounded" }
+![Working with Data-grid](screenshots/Working with Data-grid2.png){ width="700" }{ border-effect="rounded" }
 
 > User can change the formats of any column in variable section and that will be reflected in data-pane.
 >
 {style="note"}
 
-![alt text](screenshots/image9.png){ width="700" }{ border-effect="rounded" }
+![Working with Data-grid](screenshots/Working with Data-grid3.png){ width="700" }{ border-effect="rounded" }
 
 
 ## Dialog
@@ -81,7 +81,7 @@ Syntax button
 Cross button
 : Used for closing dialog so that user can visualize the dataset.
 
-![alt text](screenshots/image10.png){ width="700" }{ border-effect="rounded" }
+![Dialog](screenshots/Dialog.png){ width="700" }{ border-effect="rounded" }
 
 ## Executing the Dialog
 
@@ -99,13 +99,13 @@ Once the input for analysis is fed into the dialog, the execution is performed b
 
 >The arrow buttons in top right corner of output window aids the user in navigating between the different outputs by moving up and down.
 
-![alt text](screenshots/image11.png){ width="700" }{ border-effect="rounded" }
+![Executing the Dialog](screenshots/Executing the Dialog.png){ width="700" }{ border-effect="rounded" }
 
 ## Output Window
 
 For each output of statistical analysis there are function specific options at the top of output window. From left to right.
 
-![alt text](screenshots/image12.png){ width="700" }{ border-effect="rounded" }
+![Output Window](screenshots/Output Window.png){ width="700" }{ border-effect="rounded" }
 
 {type="full"}
 Export

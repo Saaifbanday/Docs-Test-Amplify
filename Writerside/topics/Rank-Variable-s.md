@@ -9,7 +9,7 @@ All ranking functions map smallest inputs to smallest outputs.
 >
 {style="note"}
 
-![alt text](screenshots/image92.png){ width="700" }{ border-effect="rounded" }
+![Rank Variable(s)](screenshots/Rank Variables.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 >1. x: A vector of values to rank. Missing values are left as is. If you want to treat them as the smallest or largest values, replace with Inf or -Inf before ranking.

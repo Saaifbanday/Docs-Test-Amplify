@@ -12,7 +12,7 @@ User can choose the variables to reshape or alternately choose the variables not
 >
 {style="note"}
 
-![alt text](screenshots/image40.png){ width="700" }{ border-effect="rounded" }
+![Reshape wide to long](screenshots/Reshape wide to long.png){ width="700" }{ border-effect="rounded" }
 
 >R package Required: tidyr
 >
@@ -31,4 +31,4 @@ User here chooses to reshape from longer dataset to wider dataset. This option t
 >
 {style="note"}
 
-![alt text](screenshots/image41.png){ width="700" }{ border-effect="rounded" }
+![Reshape Long to Wide](screenshots/Reshape Long to Wide.png){ width="700" }{ border-effect="rounded" }

@@ -6,27 +6,27 @@ In order to extend the functionalities of BioStat Prime, user can go a step furt
 
 __Go to BioStat Prime folder in your directory -> Open config.json file(or config file of json type) with notepad -> Change the value true to false as shown in the picture below.__
 
-![alt text](screenshots/image299.png){ width="700" }{ border-effect="rounded" }
+![How to Enable/ Disable R console](screenshots/How to Enable Disable R console.png){ width="700" }{ border-effect="rounded" }
 
 Exit the BioStat Prime app if it is running before making the change to the configuration flag. Once user saves the configuration __->__ restart the app __->__ see the R Editor panel.
 Do the same steps to reverse the configuration to hide the R Editor.
 
-![alt text](screenshots/image300.png){ width="700" }{ border-effect="rounded" }
+![R console](screenshots/R console.png){ width="700" }{ border-effect="rounded" }
 
 The options at top right corner of the R console are (from right to left).
 
 __Toggle R Editor:__ Used to minimize or maximize the R console.
 
-![alt text](screenshots/image301.png){ width="700" }{ border-effect="rounded" }
+![Toggle R Editor](screenshots/Toggle R Editor.png){ width="700" }{ border-effect="rounded" }
 
 __Clear Console:__ Clears the entire code in R console.
 
-![alt text](screenshots/image302.png){ width="700" }{ border-effect="rounded" }
+![Clear Console](screenshots/Clear Console.png){ width="700" }{ border-effect="rounded" }
 
 __Export R Script:__ Used to save R script exporting it to the PC/Laptop.
 
-![alt text](screenshots/image303.png){ width="700" }{ border-effect="rounded" }
+![Export R Script](screenshots/Export R Script.png){ width="700" }{ border-effect="rounded" }
 
 __Execute Button:__ Executes the R script.
 
-![alt text](screenshots/image304.png){ width="700" }{ border-effect="rounded" }
+![Execute Button](screenshots/Execute Button.png){ width="700" }{ border-effect="rounded" }

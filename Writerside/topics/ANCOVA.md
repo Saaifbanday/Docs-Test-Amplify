@@ -15,7 +15,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select means -> The means tab leads to the ANCOVA analysis technique in the dialog -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image111.png){ width="700" }{ border-effect="rounded" }
+![ANCOVA](screenshots/ANCOVA.png){ width="700" }{ border-effect="rounded" }
 
 The output of the analysis is shown in the output window. The user can also opt for Model Summary, Scatter plot for each level of the factor variable, Residual vs. Fitted plot, Histogram plot of residuals visualise the output as a plot.
 

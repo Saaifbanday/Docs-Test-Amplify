@@ -7,7 +7,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Quantile Regression -> There will appear a dialog -> Select the model name, dependent variables, estimation method, standard error method and populate the formula builder in the dialog -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image214.png){ width="700" }{ border-effect="rounded" }
+![Quantile Regression](screenshots/Quantile Regression.png){ width="700" }{ border-effect="rounded" }
 
 ## Attributes
 

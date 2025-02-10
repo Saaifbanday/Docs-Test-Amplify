@@ -14,4 +14,4 @@ __Load the dataset that needs to be visualized -> Go to Graphics -> Box Plot ->P
 
 The picture below shows the box plot for a loaded dataset and the dialog for the same.
 
-![alt text](screenshots/image167.png){ width="700" }{ border-effect="rounded" }
+![Box Plot](screenshots/Box Plot.png){ width="700" }{ border-effect="rounded" }

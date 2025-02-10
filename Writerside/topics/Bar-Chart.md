@@ -11,4 +11,4 @@ Steps
 
 The picture below shows the bar chart for a loaded dataset and the dialog for the same.
 
-![alt text](screenshots/image166.png){ width="700" }{ border-effect="rounded" }
+![Bar Chart](screenshots/Bar Chart.png){ width="700" }{ border-effect="rounded" }

@@ -7,4 +7,4 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the model evaluation tab in main menu -> Select confidence interval -> Select a model -> Execute.__
 
-![alt text](screenshots/image223.png){ width="700" }{ border-effect="rounded" }
+![Confidence Interval](screenshots/Confidence Interval.png){ width="700" }{ border-effect="rounded" }

@@ -5,7 +5,7 @@ Compute aids the user to compute the variable rows and save the output in a new 
 ### Applying Function to all Rows
 Applies a function across all rows of the selected variables (columns) in a dataset. User can use the select function and the pipe ( %>% ) operator from the dplyr package to select the variables whose rows we will apply a function to. (These variables are piped into the apply function)
 
-![alt text](screenshots/image61.png){ width="700" }{ border-effect="rounded" }
+![Applying Function to all Rows](screenshots/Applying Function to all Rows.png){ width="700" }{ border-effect="rounded" }
 
 >Computed values are stored directly in Dataset Package : dplyr
 >
@@ -14,7 +14,7 @@ Applies a function across all rows of the selected variables (columns) in a data
 ### Dummy code
 In this section variables entered are dummy coded. New variables are created with the name in the format "variable name_level name". 
 
-![alt text](screenshots/image62.png){ width="700" }{ border-effect="rounded" }
+![Dummy code](screenshots/Dummy code.png){ width="700" }{ border-effect="rounded" }
 
 >By default the most frequent level is treated as reference
 >
@@ -23,7 +23,7 @@ In this section variables entered are dummy coded. New variables are created wit
 ### Compute Variable
 Computes an expression and stores the result in a variable/column of a dataframe/dataset.
 
-![alt text](screenshots/image63.png){ width="700" }{ border-effect="rounded" }
+![Compute Variable](screenshots/Compute Variable.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 
@@ -34,16 +34,16 @@ The arguments used is executing the dialog are given as follows.
 
 ### Conditional Compute
 
-![alt text](screenshots/image64.png){ width="700" }{ border-effect="rounded" }
+![Conditional Compute](screenshots/Conditional Compute.png){ width="700" }{ border-effect="rounded" }
 
 ### Conditional Compute Multiple
 
-![alt text](screenshots/image65.png){ width="700" }{ border-effect="rounded" }
+![Conditional Compute Multiple](screenshots/Conditional Compute Multiple.png){ width="700" }{ border-effect="rounded" }
 
 ### Cumulative Statistics Variable
 This dialog creates a new variable that stores the cumulative value of a chosen statistic as you go down the rows in the current order of the dataset. User can optionally compute this cumulative value within one or more groups.
 
-![alt text](screenshots/image66.png){ width="700" }{ border-effect="rounded" }
+![Cumulative Statistics Variable](screenshots/Cumulative Statistics Variable.png){ width="700" }{ border-effect="rounded" }
 
 
 __.New Variable Name__: Name of variable that will store the cumulative values

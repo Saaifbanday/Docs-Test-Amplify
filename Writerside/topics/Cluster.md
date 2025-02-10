@@ -23,7 +23,7 @@ The result of the analysis will be visible in the output. Users can also decide 
 
 The options tab at the bottom leads the user to further methods and metrics that the user can choose according to the requirements.
 
-![alt text](screenshots/image96.png){ width="700" }{ border-effect="rounded" }
+![Hierarchical Clustering](screenshots/Hierarchical Clustering.png){ width="700" }{ border-effect="rounded" }
 
 > Arguments
 >1. __varsToCluster__: The variables to analyze
@@ -49,7 +49,7 @@ Steps
 
 The result of the analysis will be visible in the output. User can also decide whether to `assign cluster values to dataset`, `show cluster bi plot`, `no. of starting seeds`, `maximum iterations`.
 
-![alt text](screenshots/image97.png){ width="700" }{ border-effect="rounded" }
+![K-Means Clustering](screenshots/K-Means Clustering.png){ width="700" }{ border-effect="rounded" }
 
 >Arguments
 >1. __vars__: The variables to analyze in a vector of form c('var1','var2'...)

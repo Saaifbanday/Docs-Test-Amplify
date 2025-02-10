@@ -3,14 +3,14 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi" name="UserGuide BioStat Prime"
-                 start-page="INTRODUCTION.md">
+                 start-page="BioStat-Prime.md">
 
     <toc-element topic="BioStat-Prime.md"/>
     <toc-element topic="Documentation-Key.md"/>
     <toc-element topic="INTRODUCTION.md"/>
-    <toc-element topic="INSTALLATION.md"/>
     <toc-element topic="Licensing-Models.md"/>
     <toc-element topic="Activating-Licenses.md"/>
+    <toc-element topic="INSTALLATION.md"/>
     <toc-element topic="How-to-use-BioStat-Prime.md"/>
     <toc-element topic="File.md"/>
     <toc-element topic="Dataset.md">

@@ -7,7 +7,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Forecasting tab in main menu -> Select Exponential Smoothing (ES) -> Choose variables to predict -> Write Time of first observation -> Write Number of observations per unit of time -> Execute.__
 
-![alt text](screenshots/image232.png){ width="700" }{ border-effect="rounded" }
+![Exponential Smoothing ES](screenshots/Exponential Smoothing ES.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

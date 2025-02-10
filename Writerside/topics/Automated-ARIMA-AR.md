@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Forecasting tab in main menu -> Select Automated ARIMA -> Choose variables to predict -> Write Time of first observation -> Write Number of observations per unit of time, choose model criteriaExecute.__
 
-![alt text](screenshots/image231.png){ width="700" }{ border-effect="rounded" }
+![Automated ARIMA (AR)](screenshots/Automated ARIMA AR.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

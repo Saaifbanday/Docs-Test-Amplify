@@ -7,7 +7,7 @@ Steps
 
 The output of the Scatter Plot of a sample dataset can be seen in the picture below.
 
-![alt text](screenshots/image188.png){ width="700" }{ border-effect="rounded" }
+![Scatter plots](screenshots/Scatter plots.png){ width="700" }{ border-effect="rounded" }
 
 >User can also flip axis, control the opacity of the plot in the output.
 >
@@ -15,4 +15,4 @@ The output of the Scatter Plot of a sample dataset can be seen in the picture be
 
 The Select type of Scatter plot tab at the bottom can be utilized to add more features to the output as shown below.
 
-![alt text](screenshots/image189.png){ width="700" }{ border-effect="rounded" }
+![Scatter plots](screenshots/Scatter plots,type.png){ width="700" }{ border-effect="rounded" }

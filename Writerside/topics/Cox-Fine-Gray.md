@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the Model Fitting tab in main menu -> Select Regression -> This leads to analysis techniques, choose Cox, Fine-Gray -> There will appear a dialog -> Select the variables in the dialog and populate a formula -> Finally execute the plot and visualise the output in output window.__
 
-![alt text](screenshots/image198.png){ width="700" }{ border-effect="rounded" }
+![Cox Fine-Gray](screenshots/Cox Fine-Gray.png){ width="700" }{ border-effect="rounded" }
 
 ## Attributes
 

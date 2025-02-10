@@ -9,7 +9,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __After loading the dataset, select Regression from the Model Fitting tab in the main menu -> This will lead to analytic approaches; select Cox Basics -> A dialog box will then display. In the dialog, select the source variables that need to be established as independent variables -> Lastly, choose which source variables to insert in the Time to event or censor, Events (1 = event 1, 0 = censor) options. -> Finally execute.__
 
-![alt text](screenshots/image196.png){ width="700" }{ border-effect="rounded" }
+![Cox, Basics](screenshots/Cox Basics.png){ width="700" }{ border-effect="rounded" }
 
 >Click on the ? button on the top right of the dialog for details on sample datasets and the data format supported.
 > 

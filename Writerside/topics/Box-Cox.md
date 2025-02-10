@@ -10,7 +10,7 @@ Box-Cox transformation cannot be performed on negative values
 >
 {style="note"}
 
-![alt text](screenshots/image57.png){ width="700" }{ border-effect="rounded" }
+![Box Cox](screenshots/Box Cox.png){ width="700" }{ border-effect="rounded" }
 
 >Lambda (λ) values associated with familiar Box-Cox transformations
 >1. λ = 2: square transformation ( x^2 )
@@ -31,7 +31,7 @@ Checks for the associated Lambda (λ) value, if any, for the selected variables 
 >
 {style="note"}
 
-![alt text](screenshots/image58.png){ width="700" }{ border-effect="rounded" }
+![Inspect Lambda](screenshots/Inspect Lambda.png){ width="700" }{ border-effect="rounded" }
 
 >Lambda (λ) values associated with familiar Box-Cox transformations
 >1. λ = 2: square transformation ( x^2 )
@@ -48,9 +48,9 @@ Checks for the associated Lambda (λ) value, if any, for the selected variables 
 ### Add/Remove Lambda
 This dialog is provided for convenience if the Lambda (λ) associated with the variable needs to be recorded correctly or adjusted. The correct Lambda (λ) value is important as it will be used if inverse Box-Cox is needed
 
-![alt text](screenshots/image59.png){ width="700" }{ border-effect="rounded" }
+![Add/Remove Lambda](screenshots/Add Remove Lambda.png){ width="700" }{ border-effect="rounded" }
 
 ### Inverse Box-Cox
 Transform back (inverse) from a prior Box-Cox transformed value using the specified lambda or the lambda associated with the variable selected
 
-![alt text](screenshots/image60.png){ width="700" }{ border-effect="rounded" }
+![Inverse Box-Cox](screenshots/Inverse Box-Cox.png){ width="700" }{ border-effect="rounded" }

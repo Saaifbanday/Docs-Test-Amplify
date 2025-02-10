@@ -11,7 +11,7 @@ Steps
 
 >The user can choose additional plot options like autocorrelation, partial correlation, autocovariance. Apart from this user can decide the Y axis label and main title for the plot. In correlation user can opt for additional plots options to get more plots according to the needs and a clear comparison.
 
-![alt text](screenshots/image236.png){ width="700" }{ border-effect="rounded" }
+![Plot Time Series with Correlations](screenshots/Plot Time Series with Correlations.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

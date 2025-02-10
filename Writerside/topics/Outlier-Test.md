@@ -6,7 +6,7 @@ For a linear model, p-values reported use the t distribution with degrees of fre
 
 This function reports the Bonferroni p-values for testing each observation in turn to be a mean-shift outlier, based Studentized residuals in linear (t-tests), generalized linear models (normal tests), and linear mixed models.
 
-![alt text](screenshots/image229.png){ width="700" }{ border-effect="rounded" }
+![Bonferroni Outlier Test](screenshots/Bonferroni Outlier Test.png){ width="700" }{ border-effect="rounded" }
 
 ## Arguments
 

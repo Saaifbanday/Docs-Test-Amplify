@@ -4,10 +4,10 @@ Bin function of variable menu selects a variable from the selected dataset to pe
 
 Variable selected to be binned.
 
-![alt text](screenshots/image55.png){ width="700" }{ border-effect="rounded" }
+![Bin](screenshots/Bin.png){ width="700" }{ border-effect="rounded" }
 
 Variable binned.
 
-![alt text](screenshots/image56.png){ width="700" }{ border-effect="rounded" }
+![Variable binned](screenshots/Variable binned.png){ width="700" }{ border-effect="rounded" }
 
 This tab creates a factor dissecting the range of a numeric variable into bins of equal width, (roughly) equal frequency, or at "natural" cut points (determined by K-means clustering)

@@ -1,26 +1,26 @@
 # Licensing Models
-One of the fundamental building blocks of the software is the Licensing Model that user chooses. BioStat Prime provides 4 types of licenses that user can avail, viz;
+BioStat Prime offers four distinct licensing models, allowing users to choose the option that best fits their needs. The licensing model selected serves as a fundamental aspect of the software's usage and access.
 
 ## Perpetual
-A perpetual license does not expire. A perpetual license is a license that is valid forever. A perpetual license may have other rules, such as a machine activation limit, or limitations on certain features, or a lack of major version updates, etc.
+A perpetual license grants users indefinite access to the software without an expiration date. This license remains valid permanently; however, it may include specific conditions such as machine activation limits, feature restrictions, or exclusions from major version upgrades
 
 ## Subscription
-The license status is determined by an external source of truth (like a recurring billing system). Subscriptions also have subscription periods recorded. A subscription license synchronizes the status of the subscription with the state of the license.
-
-### Subscription Grace Period
-Grace periods offer the flexibility to determine a specific timeframe, measured in hours, subsequent to the expiry of the designated validity period.
-
-During this defined interval, the license will retain its validity, ensuring a seamless transition even after the official expiration.
-
-## Trial
+This license type operates based on predefined subscription periods and continuously synchronizes the subscription status with the active state of the license.
 
 ## Grouped
+BioStat Prime's grouped license allows multiple users or devices within a defined group, such as an organization or team, to access BioStat Prime under a single Admin. This model simplifies BioStat Prime's license management by enabling centralized control, ensuring that all authorized users within the group can utilize the software.
+
+## Trial
+A trial license provides users with temporary access to BioStat Prime for evaluation purposes. This allows potential users to explore the software’s features, functionality, and capabilities before committing to a full license.
+
+BioStat Prime's trial licenses are typically valid for a limited period. Once the trial period expires, users must upgrade to a paid license to continue accessing the software.
 
 ## Floating
-A floating license, also known as a concurrent license or network license, is a software licensing model that allows a limited number of users or devices to access and use a particular software application simultaneously.
+A floating license, also referred to as a concurrent or network license, allows a specified number of users or devices to access BioStat Prime simultaneously.
 
-A floating license operates within a license pool that multiple users or a set number of devices can draw from as needed.
+This license operates within a shared license pool, from which authorized users or devices can dynamically obtain access as needed, ensuring efficient resource utilization across multiple users.
 
 ## Enterprise (Site licensing)
-A site license is a type of software license that grants permission to an organization or institution to use a software product across multiple computers or devices within a specific location or site.
+A site license grants an organization or institution the right to install and use BioStat Prime across multiple computers or devices within a designated location or site. This licensing model is ideal for institutions requiring widespread software access.
+
 

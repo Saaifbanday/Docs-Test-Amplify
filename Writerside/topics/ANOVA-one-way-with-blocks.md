@@ -11,7 +11,7 @@ To analyse it in BioStat Prime user must follow the steps as given.
 Steps
 : __Load the dataset -> Click on the analysis tab in main menu -> Select means -> The means tab leads to the ANOVA, one way with blocks analysis technique in the dialog -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
-![alt text](screenshots/image116.png){ width="700" }{ border-effect="rounded" }
+![ANOVA, one way with blocks](screenshots/ANOVA one way with blocks.png){ width="700" }{ border-effect="rounded" }
 
 In the context of a one-way ANOVA with blocks, user would have one main factor (e.g., a treatment or condition), and the blocks would be another variable that is not the primary focus of user's study but is thought to contribute to variability.
 

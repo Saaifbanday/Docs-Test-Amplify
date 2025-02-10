@@ -1,7 +1,7 @@
 # Lag or Lead Variable
 This creates a new variable that finds the previous (lag) or next (lead) value in an existing variable based on the row position.
 
-![alt text](screenshots/image85.png){ width="700" }{ border-effect="rounded" }
+![Lag or Lead Variable](screenshots/Lag or Lead Variable.png){ width="700" }{ border-effect="rounded" }
 
 The arguments used is executing the dialog are given as follows.
 
