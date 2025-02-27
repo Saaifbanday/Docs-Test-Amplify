@@ -46,6 +46,18 @@ To unlock the full functionality of BioStat Prime, user must activate the licens
 7. The user should copy the provided credentials and use them to complete the license activation process.
 
 8. Additionally, it is strongly recommended to update the temporary password for both the Dashboard and the license at the earliest opportunity to ensure security.
+
 ![password-change](screenshots/password-change.png){ width="700" }{ border-effect="rounded" }
 
 ## Activating Trial License
+
+To access and activate your trial license, please follow the steps below:
+
+1. __Visit the Website__ – Navigate to our website and click on the "Try For Free" button.
+
+![Try For Free](screenshots/Try For Free.png){ width="700" }{ border-effect="rounded" }
+
+2. __Download & Install__ – User will be redirected to a page containing the software installer and activation instructions. Download and install the software on the device.
+3. __Activate the Trial__ – After installation, launch the software. User will be prompted to enter the email ID to activate the trial license.
+
+Once activated, user can start exploring the software’s features during the trial period.
