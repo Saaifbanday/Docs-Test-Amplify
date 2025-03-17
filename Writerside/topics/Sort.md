@@ -3,9 +3,11 @@
 ### Move Variables
 This will move variables to a specified location in the data set.
 
-__Variables to Move__: Variables to move to a different location. They will be placed in the order specified in this box.
+>__Variables to Move__
+: Variables to move to a different location. They will be placed in the order specified in this box.
 
-__Location__: Location in the data set to move the variables. First places the variables at the beginning of the data set. Last places the variables at the end of the data set. After Selected Variable places the variables after this variable in the data set.
+>__Location__
+: Location in the data set to move the variables. First places the variables at the beginning of the data set. Last places the variables at the end of the data set. After Selected Variable places the variables after this variable in the data set.
 
 >Required R Packages: dplyr
 >

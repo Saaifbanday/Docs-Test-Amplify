@@ -32,21 +32,25 @@ It then uses the constructed model to predict values and replace missing values 
 ![Model Imputation](screenshots/Model Imputation.png){ width="700" }{ border-effect="rounded" }
 
 The simputation package offers a number of commonly used single imputation methods, each with a similar simple interface. The following imputation methodology is supported.
->• linear regression
-• robust linear regression
-• ridge/elasticnet/lasso regression
-• CART models (decision trees)
-• Random forest
-• Multivariate imputation
-• Imputation based on the expectation-maximization algorithm
-• missForest (iterative random forest imputation)
-• Donor imputation (including various donor pool specifications)
-• k-nearest neigbour (based on gower’s distance)
-• sequential hotdeck (LOCF, NOCB)
-• random hotdeck
-• Predictive mean matching
-• Model based (optionally add [non]parametric random residual)
-• Other
+
+{type="full"}
+Imputation methodology
+: 
+1. linear regression
+2. robust linear regression
+3. ridge/elasticnet/lasso regression
+4. CART models (decision trees)
+5. Random forest
+6. Multivariate imputation
+7. Imputation based on the expectation-maximization algorithm
+8. missForest (iterative random forest imputation)
+9. Donor imputation (including various donor pool specifications)
+10. k-nearest neigbour (based on gower’s distance)
+11. sequential hotdeck (LOCF, NOCB)
+12. random hotdeck
+13. Predictive mean matching
+14. Model based (optionally add [non]parametric random residual)
+15. Other
 (groupwise) median imputation (optional random residual)
 
 >Proxy imputation: copy another variable or use a simple transformation to compute imputed values.
@@ -56,13 +60,12 @@ Replace missing values in variables selected by the operation selected i.e. medi
 
 ![Numeric](screenshots/Numeric.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
-
-__var__
-: Character string representing the numeric variable with missing values (na), for e.g. var = c('sales')
-
-__Dataset__
-: The dataset that contains the variable var
+Arguments
+:
+1. __var__
+ Character string representing the numeric variable with missing values (na), for e.g. var = c('sales')
+2. __Dataset__
+ The dataset that contains the variable var
 
 ### Remove NAs
 Remove missing values/NA from dataset/dataframe Creates new/Overwrites existing dataset by removing rows with one or more missing values for the columns/variable names selected
@@ -77,13 +80,11 @@ Construct a formula to replace missing values. For example user builds a regress
 
 ![Impute Missing Values using a formula](screenshots/Impute Missing Values using a formula.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
-
-__var__
-: The name of the variable in dataset where missing values are to be replaced for e.g. var=c("sales"). The variable must be of class numeric
-
-__Dataset__
-: The dataset/dataframe that contains the variable var
-
-__Expression__
-: The expression used to replace the missing value, in the example above its var2*4+ 1.32
+Arguments
+:
+1. __var__
+The name of the variable in dataset where missing values are to be replaced for e.g. var=c("sales"). The variable must be of class numeric
+2. __Dataset__
+The dataset/dataframe that contains the variable var
+3. __Expression__
+The expression used to replace the missing value, in the example above its var2*4+ 1.32

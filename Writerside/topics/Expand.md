@@ -23,7 +23,9 @@ After Expanding weights.
 
 The arguments used is executing the dialog are given as follows.
 
->Arguments
-> 1. Weights: The dataset variable that contains the weights.
-> 2. data: The input data.frame or data.table.
-> 3. newdata: The new dataset where the rows are replicated for the weights specified.
+{type="full"}
+Arguments
+:
+1. Weights: The dataset variable that contains the weights.
+2. data: The input data.frame or data.table.
+3. newdata: The new dataset where the rows are replicated for the weights specified.

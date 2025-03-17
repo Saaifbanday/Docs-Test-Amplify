@@ -19,8 +19,10 @@ Output of aggregate is given as.
 
 The arguments used is executing the dialog are given as follows.
 
->Arguments
-> 1. var1: factor to group by
-> 2. var2, var3: variable to aggregate
-> 3. newvarmean: mean of var2 grouped by var1 in the aggregated dataset
-> 4. ​newvarmedian: median of var3 grouped by var1 in the aggregated dataset
+{type="full"}
+Arguments
+:
+1. var1: factor to group by
+2. var2, var3: variable to aggregate
+3. newvarmean: mean of var2 grouped by var1 in the aggregated dataset
+4. ​newvarmedian: median of var3 grouped by var1 in the aggregated dataset

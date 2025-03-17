@@ -35,6 +35,9 @@ BioStat Prime aids this Statistical analysis technique by merging the powers of 
 
 To analyse it in BioStat user must follow the steps as given.
 
+{type="full"}
+Steps
+:
 __Load the dataset (as specified above in DoE section) -> Click on the DoE tab in main menu -> Select Create Design -> Choose Create Full Factorial Design -> This leads to analysis techniques in the dialog -> In the dialog window select the options according to the requirements -> Execute.__
 
 The output will be represented in output window.The output window shows the message that Full Factorial Design has been created.

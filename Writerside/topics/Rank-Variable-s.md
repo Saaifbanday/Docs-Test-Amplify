@@ -1,7 +1,7 @@
 # Rank Variable(s)
-RANKS WILL BE STORED IN NEW VARIABLES WITH THE PREFIX OR SUFFIX SPECIFIED
-
 Six variations on ranking functions, mimicking the ranking functions described in SQL2003. They are currently implemented using the built in rank function, and are provided mainly as a convenience when converting between R and SQL. 
+
+Ranks will be stored in new variables with the prefix or suffix specified.
 
 All ranking functions map smallest inputs to smallest outputs. 
 
@@ -11,9 +11,10 @@ All ranking functions map smallest inputs to smallest outputs.
 
 ![Rank Variable(s)](screenshots/Rank Variables.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
->1. x: A vector of values to rank. Missing values are left as is. If you want to treat them as the smallest or largest values, replace with Inf or -Inf before ranking.
->2. n: number of groups to split up into.
+{type="full"}
+Arguments
+: 1. x: A vector of values to rank. Missing values are left as is. If you want to treat them as the smallest or largest values, replace with Inf or -Inf before ranking.
+2. n: number of groups to split up into.
 
 >Details
 

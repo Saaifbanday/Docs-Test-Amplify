@@ -34,6 +34,11 @@ BioStat Prime installation on Windows.
 
 
 ![Logo](screenshots/image5.png){ width="700" }{ border-effect="rounded" }
+
+>BioStat Prime is supported on Windows 8.1 or higher.
+>
+{style="note"}
+
 </tab>
 
 <tab title="Mac OS">

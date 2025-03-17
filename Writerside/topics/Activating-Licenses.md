@@ -17,7 +17,7 @@ To unlock the full functionality of BioStat Prime, user must activate the licens
 
 1. After completing the payment successfully, the user will receive an email containing credentials to log in to the user portal. This portal provides access to the software installer link and license activation credentials.
 
-![email-after-payment](screenshots/email-after-payment.png){ width="700" }{ border-effect="rounded" }
+![email-after-payment](screenshots/email-after-payment.jpg){ width="700" }{ border-effect="rounded" }
 
 2. Upon receiving the email, the user should log in to the LicenseSpring Dashboard using the provided credentials to manage their license and access account details.
 
@@ -57,7 +57,8 @@ To access and activate your trial license, please follow the steps below:
 
 ![Try For Free](screenshots/Try For Free.png){ width="700" }{ border-effect="rounded" }
 
-2. __Download & Install__ – User will be redirected to a page containing the software installer and activation instructions. Download and install the software on the device.
-3. __Activate the Trial__ – After installation, launch the software. User will be prompted to enter the email ID to activate the trial license.
+2. __Complete the Form__ – Fill out the form that appears to provide the required user details.
+3. __Download & Install__ – User will be redirected to a page containing the software installer and activation instructions. Download and install the software on the device as per the instructions provided in upcoming section.
+4. __Activate the Trial__ – After installation, launch the software. User will be prompted to enter the email ID to activate the trial license.
 
 Once activated, user can start exploring the software’s features during the trial period.

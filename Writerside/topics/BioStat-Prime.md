@@ -1,3 +1,3 @@
 # BioStat Prime
 
-![BioStat Prime](screenshots/brandingPage.jpg){ width="10000" }{ border-effect="rounded" }
+![BioStat Prime](screenshots/brandingPage.jpg){ width="1000" }{ border-effect="rounded" }

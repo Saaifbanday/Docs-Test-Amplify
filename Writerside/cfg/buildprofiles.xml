@@ -3,11 +3,27 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <variables>
+        <header-logo>biostatlogo.png</header-logo>
+        <custom-favicons>biostatlogo.png</custom-favicons>
+        <download-title>Get Free Trial</download-title>
+        <download-page>https://bio-stat-frontend.vercel.app/</download-page>
+        <showDownloadButton>true</showDownloadButton>
+
+    </variables>
     <build-profile instance="hi">
         <variables>
             <noindex-content>true</noindex-content>
         </variables>
+
+        <footer>
+            <copyright>StatX Corporation</copyright>
+            <social type="youtube" href="https://blog.jetbrains.com/writerside/"/>
+            <social type="twitter" href="https://twitter.com/onwriterside"/>
+            <social type="linkedin" href="https://blog.jetbrains.com/writerside/"/>
+            <social type="facebook" href="https://www.facebook.com/JetBrains"/>
+            <link href="support@biostatprime.com">Support</link>
+        </footer>
     </build-profile>
 
 </buildprofiles>

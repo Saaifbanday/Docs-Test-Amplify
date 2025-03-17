@@ -47,5 +47,3 @@ censored
 
 model
 : logical. If true, the model frame is saved as component model of the returned object.
-
-... additional arguments for nnet

@@ -3,6 +3,8 @@ Use the drop down to select the operation (log, log10,as.numeric...) to transfor
 
 ![Transform Variable(s)](screenshots/Transform Variable.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
->1. var: The variable to be transformed
->2. Dataset: The dataset that contains the variable var
+{type="full"}
+Arguments
+:
+1. var: The variable to be transformed
+2. Dataset: The dataset that contains the variable var

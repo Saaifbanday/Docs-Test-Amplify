@@ -5,7 +5,7 @@ BioStat Prime offers four distinct licensing models, allowing users to choose th
 A perpetual license grants users indefinite access to the software without an expiration date. This license remains valid permanently; however, it may include specific conditions such as machine activation limits, feature restrictions, or exclusions from major version upgrades
 
 ## Subscription
-This license type operates based on predefined subscription periods and continuously synchronizes the subscription status with the active state of the license.
+This license type operates based on predefined subscription periods and continuously synchronizes the subscription status with the active state of the license. This type of license is auto charging and to stop the subscription at any point in time user needs to contact us
 
 ## Grouped
 BioStat Prime's grouped license allows multiple users or devices within a defined group, such as an organization or team, to access BioStat Prime under a single Admin. This model simplifies BioStat Prime's license management by enabling centralized control, ensuring that all authorized users within the group can utilize the software.

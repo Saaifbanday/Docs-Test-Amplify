@@ -20,7 +20,9 @@ This section id dataset tab has 4 options that are explained as follows.
 Merge datasets will help user to join 2 datasets together. By default, this dialog will look for common variable names within the 2 datasets and merge on the full set of common variables.
 To perform this operation in BioStat Prime user needs to follow the steps given bellow.
 
-
+{type="full"}
+Steps
+:
 __Load the datasets -> click on the DATASET tab in main menu -> select MERGE -> select MERGE from the drop-down -> Once the dialog appears choose the Variables from each dataset -> add them to join the mapping -> Execute the dialog.__
 
 ![Merge](screenshots/Merge.png){ width="700" }{ border-effect="rounded" }
@@ -35,6 +37,7 @@ __Load the datasets -> click on the DATASET tab in main menu -> select MERGE -> 
 
 ### Stack
 This dialog will help user to stack 2 datasets on top of each other. User can select one of the following options.
+
 {type="full"}
 Steps
 :
@@ -53,9 +56,7 @@ Steps
 
 ![Stack](screenshots/Stack2.png){ width="700" }{ border-effect="rounded" }
 
-{type="full"}
-Steps
-:
+
 ### Merge Update
 Description
 Update merge updates a dataset with values from a second dataset based on exact variable name matching for observations with matching join mapping variable values.

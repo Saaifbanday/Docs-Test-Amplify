@@ -3,7 +3,7 @@ Recodes one or more a numeric vector, character vector, or factors according to 
 
 ![Recode Variables](screenshots/Recode Variables.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
+__Arguments__
 
 __colNames__
 : A character vector containing one or more variables in the dataset to recode

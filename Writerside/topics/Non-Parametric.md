@@ -40,8 +40,10 @@ The Friedman test is a non-parametric statistical test used to detect difference
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
+{type="full"}
 Steps
-: __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Friedman Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+: 
+__Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Friedman Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![Friedman Test](screenshots/Friedman Test.png){ width="700" }{ border-effect="rounded" }
 
@@ -74,6 +76,9 @@ The Kruskal-Wallis test is a non-parametric statistical test used to determine i
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
+{type="full"}
+Steps
+:
 __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Kruskal-Wallis Rank Sum Test -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![Kruskal-Wallis Rank Sum Test](screenshots/Kruskal-Wallis Rank Sum Test.png){ width="700" }{ border-effect="rounded" }
@@ -108,8 +113,10 @@ The Wilcoxon rank-sum test, also known as the Mann-Whitney U test, is a non-para
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
+{type="full"}
 Steps
-: __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, independent samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+:
+__Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, independent samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![Wilcoxon Test, independent samples](screenshots/Wilcoxon Test independent samples.png){ width="700" }{ border-effect="rounded" }
 
@@ -160,8 +167,10 @@ The Wilcoxon signed-rank test is a non-parametric statistical test used to asses
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
-Step
-: __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Signed-Rank Test, one sample -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+{type="full"}
+Steps
+:
+__Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Signed-Rank Test, one sample -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![Wilcoxon Signed-Rank Test, one sample](screenshots/Wilcoxon Signed-Rank Test one sample.png){ width="700" }{ border-effect="rounded" }
 
@@ -212,8 +221,10 @@ The Wilcoxon signed-rank test for paired samples is a non-parametric statistical
 
 To analyse it in BioStat Prime user must follow the steps as given.
 
+{type="full"}
 Steps
-: __Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, paired samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
+:
+__Load the dataset -> Click on the analysis tab in main menu -> Select Non-Parametric -> The non-parametric tab leads to Wilcoxon Test, paired samples -> In the dialog select the variable and options according to the requirement -> Execute the dialog.__
 
 ![Wilcoxon Test, Paired samples](screenshots/Wilcoxon Test Paired samples.png){ width="700" }{ border-effect="rounded" }
 

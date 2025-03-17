@@ -3,7 +3,7 @@ Standardizes variables (z scores). The standardized values are stored in new var
 
 ![Standardize Variable(s)](screenshots/Standardize Variable.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
+__Arguments__
 
 __vars__
 : One or more variables to standardize. Only numeric variables (not factors) supported.

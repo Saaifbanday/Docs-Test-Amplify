@@ -25,14 +25,16 @@ The options tab at the bottom leads the user to further methods and metrics that
 
 ![Hierarchical Clustering](screenshots/Hierarchical Clustering.png){ width="700" }{ border-effect="rounded" }
 
-> Arguments
->1. __varsToCluster__: The variables to analyze
->2. __method__: the agglomeration method to be used. This should be (an unambiguous abbreviation of) one of "ward.D", "ward.D2", "single", "complete", "average" (= UPGMA), "mcquitty" (= WPGMA),"median" (= WPGMC) or "centroid" (= UPGMC).
->3. __noOfClusters__: The number of clusters desired
->4. __plotDendogram__: Plot a dendogram True or false
->5. __assignClusterToDataset__: Save the cluster assignments to the dataset
->6. __label__: name for the new variable that stores the cluster assignments
->7. __plotBiplot__: plot Biplot TRUE or FALSE
+{type="full"}
+Arguments
+:
+1. __varsToCluster__: The variables to analyze
+2. __method__: the agglomeration method to be used. This should be (an unambiguous abbreviation of) one of "ward.D", "ward.D2", "single", "complete", "average" (= UPGMA), "mcquitty" (= WPGMA),"median" (= WPGMC) or "centroid" (= UPGMC).
+3. __noOfClusters__: The number of clusters desired
+4. __plotDendogram__: Plot a dendogram True or false
+5. __assignClusterToDataset__: Save the cluster assignments to the dataset
+6. __label__: name for the new variable that stores the cluster assignments
+7. __plotBiplot__: plot Biplot TRUE or FALSE
 
 ### K-Means Clustering
 
@@ -51,11 +53,13 @@ The result of the analysis will be visible in the output. User can also decide w
 
 ![K-Means Clustering](screenshots/K-Means Clustering.png){ width="700" }{ border-effect="rounded" }
 
->Arguments
->1. __vars__: The variables to analyze in a vector of form c('var1','var2'...)
->2. __centers__:either the number of clusters, say k, or a set of initial (distinct) cluster centers. If a number, a random set of (distinct) rows in x is chosen as the initial centers.
->3. __iter.max__: the maximum number of iterations allowed.
->4. __num.seeds__: The number of different starting random seeds to use. Each random seed results in a different k-means solution.
->5. __storeClusterInDataset__ : Save the cluster assignments to the dataset
->6. __varNameForCluster__: The variable names for the assigned clusters
->7. __dataset__: The dataset to analyze
+{type="full"}
+Arguments
+:
+1. __vars__: The variables to analyze in a vector of form c('var1','var2'...)
+2. __centers__:either the number of clusters, say k, or a set of initial (distinct) cluster centers. If a number, a random set of (distinct) rows in x is chosen as the initial centers.
+3. __iter.max__: the maximum number of iterations allowed.
+4. __num.seeds__: The number of different starting random seeds to use. Each random seed results in a different k-means solution.
+5. __storeClusterInDataset__ : Save the cluster assignments to the dataset
+6. __varNameForCluster__: The variable names for the assigned clusters
+7. __dataset__: The dataset to analyze

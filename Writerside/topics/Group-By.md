@@ -17,10 +17,12 @@ Removes the split (if a split is set on the dataset).
 
 The arguments used is executing the dialog are given as follows.
 
->Arguments
-> 1. col.names: These are the column names/variable names that you want to split the dataset by, e.g. col.names =c("var1", "var2").
-> 2. datasetnameorindex: this is the name of the index.​
-> 3. removeall.splits: TRUE splits are removed, FALSE splits are added.
+{type="full"}
+Arguments
+:
+1. col.names: These are the column names/variable names that you want to split the dataset by, e.g. col.names =c("var1", "var2").
+2. datasetnameorindex: this is the name of the index.​
+3. removeall.splits: TRUE splits are removed, FALSE splits are added.
 
 
 

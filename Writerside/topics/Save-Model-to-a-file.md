@@ -10,13 +10,13 @@ User has to click the execute button (the horizontal triangle button) to run the
 
 ![Save Model to a file](screenshots/Save Model to a file.png){ width="700" }{ border-effect="rounded" }
 
-## Arguments
-
-model1, model2...
+{type="full"}
+Arguments
+:
+1. model1, model2...
 : fitted model objects
-
-file
-:file name with path, the model objects selected will be saved to this RData file
+2. file
+: file name with path, the model objects selected will be saved to this RData file
 
 >For detailed help click on the R icon on the top right hand side of the help dialog overlay
 > 
