@@ -6,7 +6,8 @@ Builds a linear regression model for the design to analyze the response (i.e. th
 
 >For more details, see R help for the following
 >
-{style="note"} 
+{style="note"}   
+
 
 ![Design Analysis-Linear Model](screenshots/Design Analysis-Linear Model.png){ width="700" }{ border-effect="rounded" }
 
