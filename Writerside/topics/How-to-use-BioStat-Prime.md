@@ -15,9 +15,7 @@ UI
 
 All the datasets that are imported into the software are displayed in the data-grid. The data-grid has two panes: `data pane` and `variable pane`. 
 
-> Both the panes are fully interactive. 
->
-{style="note"}
+> Both the panes are fully interactive.
 
 >The main menu, at the top, comprises different functions that are responsible for data manipulation commands. 
 
@@ -25,7 +23,7 @@ All the datasets that are imported into the software are displayed in the data-g
 
 >The result of analysis is displayed in output window. 
 
-> In BioStat Prime the user can work on multiple data pane windows and output windows.
+> In BioStat Prime the user can work on multiple data pane windows.
 >
 {style="note"}
 
