@@ -19,7 +19,14 @@ Steps
 
 The output of the analysis is shown in the output window. The user can also opt for Model Summary, Scatter plot for each level of the factor variable, Residual vs. Fitted plot, Histogram plot of residuals visualise the output as a plot.
 
+![ANCOVA2](screenshots/ANCOVA2.png){ width="700" }{ border-effect="rounded" }
+
 Analysis of covariance (ANCOVA) combines features of both ANOVA and regression. It augments the ANOVA model with one or more additional quantitative variables, called __covariates__, which are related to the response variable. The covariates are included to reduce the variance in the error terms and provide more precise measurement of the treatment effects.
+
+![ANCOVA3](screenshots/ANCOVA3.png){ width="700" }{ border-effect="rounded" }
+
+![ANCOVA4](screenshots/ANCOVA.png){ width="700" }{ border-effect="rounded" }
+
 
 >ANCOVA is used to test the main and interaction effects of the factors, while controlling for the effects of the covariate.
 

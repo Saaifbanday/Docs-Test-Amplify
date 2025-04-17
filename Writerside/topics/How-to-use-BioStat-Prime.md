@@ -1,41 +1,71 @@
-# How to use BioStat Prime
+# Using BioStat Prime
 
-Here is a step-by-step tutor on how to use and explore the BioStat Prime software. Following this guide will ensure a smooth and effective use of the software.
+Welcome to the BioStat Prime user guide. This step-by-step guide will help you explore and utilize the features of BioStat Prime efficiently. The guide is designed to ensure a smooth and productive user experience.
 
-## The UI of the software
+## User Interface Overview
 
-As the software opens, user can see a blank unconstrained spreadsheet on left side and blank output on right side. __User has to fill this spreadsheet with some data and perform various tests__. 
+Upon launching BioStat Prime, the user interface (UI) is divided into the following key sections:
 
-To populate the spreadsheet user can either type manually or user can __copy past from Excel__ or __user can even load some inbuilt datasets__.
+Main Menu
+: Located at the top, it provides access to essential functions related to data manipulation, analysis, and project operations.
 
-UI
-: The User Interface (UI) of BioStat Prime is divided into following sections; Main menu, Sub menu, [Output window](#output-window "Output is displayed in the output window."), [Data-grid](#working-with-data-grid "A blank unconstrained spreadsheet") and [R console](Advanced-Users.md "The R console provides an opportunity for users to write, edit and execute the R code in console."), Zoom control.
+Sub Menu
+: Nested within the main menu, the sub menu displays various statistical tests and tools. Clicking the dropdown arrow beside a function reveals all related sub-functions.
+
+Data Grid
+: Displayed on the left side, this section hosts all imported or manually entered datasets. The data grid consists of:
+1. __Data Pane__ – Contains the dataset with editable cells.
+2. __Variable Pane__ – Displays variable-specific metadata such as name, type, and format. Both panes are fully interactive.
+
+Output Window
+: Located on the right side, this is where the results of all statistical analyses and visualizations are displayed.
+
+R Console
+: Embedded for users who prefer custom scripting and direct interaction with the R environment.
+
+Zoom Control
+: Adjusts the view size of the data grid and output for better visibility.
+
+>BioStat Prime allows users to work with multiple data panes simultaneously for comparative or independent analysis.
 
 ![The UI of the software](screenshots/The UI of the software.png){ width="700" }{ border-effect="rounded" }
 
-All the datasets that are imported into the software are displayed in the data-grid. The data-grid has two panes: `data pane` and `variable pane`. 
 
-> Both the panes are fully interactive.
+## Working with Data in BioStat Prime
 
->The main menu, at the top, comprises different functions that are responsible for data manipulation commands. 
+### Entering Data
 
->Inside the main menu, is a sub menu that has various functions and tests that can be performed on the data and for all the functions in sub menu, if the user presses dropdown button, then related sub functions will appear in the drop-down. 
+Users can populate the Data Grid using several methods:
 
->The result of analysis is displayed in output window. 
+1. __Manual Entry__ – Click on any cell and enter values directly.
 
-> In BioStat Prime the user can work on multiple data pane windows.
->
-{style="note"}
+2. __Copy__-Paste from Excel or Other Applications
 
-## Working with Data-grid
+Copy data using Ctrl + C
 
-As the user starts to enter data inside the data-grid, he needs to make sure to specify which is which variable. Data-grid can contain variables of different types e.g. `numeric`, `integer`, `logical`, `ordered factor`, etc. 
+Paste directly into the data grid using Ctrl + V
 
-By making changes in variable pane user can have different levels of data grid columns. To make any change in the variable formatting the user need to switch to variable pane and the select the variable row to be changed with a right click. 
+3. __Load Inbuilt Datasets__ – Select from sample datasets for demonstration or practice.
 
-In data pane user has access to various data types and in variable pane user has access to various variable types, imported from the dataset. All the research will be displayed in the output window.
+4. __File Import__ – Load files in formats such as .csv, .xlsx, .txt, etc.
+
+All imported datasets appear in the data grid, ready for manipulation and analysis.
 
 > Whenever user enters some data the output shows a comment stating Grid Edit.
+
+### Working with the Data Grid
+
+The Data Pane displays dataset values, while the Variable Pane allows for formatting variables.
+
+Data grid supports multiple data types: `numeric`, `integer`, `logical`, `factor`, `ordered factor`, etc.
+
+__To format a variable:__
+
+1. Switch to the variable pane.
+
+2. Right-click on the variable row to modify its properties (e.g., type, levels).
+
+3. Upon editing the grid, a system message is shown in the output: “Grid Edit”.
 
 ![Working with Data-grid](screenshots/Working with Data-grid.png){ width="700" }{ border-effect="rounded" }
 
@@ -51,53 +81,89 @@ This will open a pop-up window as shown above.
 ![Working with Data-grid](screenshots/Working with Data-grid3.png){ width="700" }{ border-effect="rounded" }
 
 
-## Dialog
+### Undo and Redo Data Edits
 
-On selecting any of the statistical function, a window will appear replacing the data-grid. This window is called `Dialog`. 
+BioStat Prime provides undo/redo functionality:
 
-The Dialog is where different variables are selected to perform some tests or analysis. 
+1. __Undo__ – Reverts recent changes in single or multiple cells.
 
->The variable from source side is sent to the target side by selecting it and clicking the arrow button. 
+2. __Redo__ – Restores the undone changes.
 
->To select multiple variables, user needs to hold Alt button on keyboard and select multiple source variables.
+These features help maintain data integrity during manual edits.
+
+### Saving and Opening Projects
+
+All work in BioStat Prime, including datasets and analysis outputs, can be saved as a Project.
+
+1. __Save Project__ – Preserve your complete work session into a .bsp (BioStat Prime Project) file. 
+
+This includes:
+
+All imported or entered datasets.
+
+All statistical tests and analysis results.
+
+2. __Open Project__ – Load a previously saved project to continue analysis or review prior results.
+
+3. __Project Sharing & Collaboration__ – .bsp files are portable and can be shared with other BioStat Prime users for collaborative work or for validation and auditing purposes.
+
+4. __Reproducibility__ Projects offer a transparent and complete snapshot of your workflow, supporting reproducible research and analysis.
+
+## Dialog Window
+
+When a statistical function is selected, a Dialog window overlays the data grid temporarily:
+
+### Source & Target Selection
+
+Variables are moved from the source to target box using the arrow button.
+
+To select multiple variables: hold the Alt key and select desired variables.
+
+### Function-Specific Options
+
+Located at the top of the dialog to customize the analysis.
+
+### Dialog Toolbar (Top-Right Corner)
+
+Execute 
+: Runs the analysis.
+
+Syntax 
+: Displays the underlying R code.
+
+Help (?) 
+: Offers a quick summary.
+
+Function-Specific Help
+: Provides direct access to detailed guidance related to the selected function within the help documentation.
+
+Close (X) 
+: Closes the dialog and returns to the data grid.
+
+> You can visualize both the dialog and the data grid at the same time by dragging the dialog window to a new position.
 >
 {style="note"}
 
-For each statistical function there are function specific options at the top of dialog window.
-
-The top right corner of the dialog contains a few options like;
-
-Execute button 
-: Executes the dialog.
-
-Syntax button
-: Displays the R syntax for respective dialog analysis.
-
-? 
-: Provides quick summary help.
-
-Cross button
-: Used for closing dialog so that user can visualize the dataset.
-
-![Dialog](screenshots/Dialog.png){ width="700" }{ border-effect="rounded" }
+![Dialog](screenshots/Dialog-toolbar.png){ width="700" }{ border-effect="rounded" }
 
 ## Executing the Dialog
 
-Once the input for analysis is fed into the dialog, the execution is performed by __execute dialog button__ `|>` and the output is displayed in the output window. 
+Once variables and options are selected:
 
->The box in the left column brings up the dialog again.  It is like the history that tells us about the criteria we had chosen. 
+1. Click the Execute button to perform the analysis.
 
->But that is valid for the initial values only, once the dialog is executed then history will bring up only the initials values and not the values inserted later. 
-> 
-{style="note"}
+![Dialog](screenshots/Dialog-toolbar-execute.png){ width="700" }{ border-effect="rounded" }
 
->Also, as soon as user edits the R syntax associated with the dialog, user removes the association between dialog and the output window because of which the history is no more saved in the dialog and the output is executed as per the R syntax. 
+2. The results are displayed in the Output Window.
+
+3. The box in the left column of the output window allows re-opening of the dialog with initial settings (not the modified ones).
+
+![Dialog](screenshots/Dialog-reopening.png){ width="700" }{ border-effect="rounded" }
+
+>If the R syntax is manually edited after executing a dialog, the association between dialog and output is broken. In this case, only the modified syntax is retained, and dialog history is no longer preserved.
 >
 {style="note"}
 
->The arrow buttons in top right corner of output window aids the user in navigating between the different outputs by moving up and down.
-
-![Executing the Dialog](screenshots/Executing the Dialog.png){ width="700" }{ border-effect="rounded" }
 
 ## Output Window
 
